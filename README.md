@@ -1,6 +1,6 @@
 # Corentin_VIALAR-Aurore_Lessieux-fdt2020-GIT
  
-Mode d'emploi de l'archive de ce proket de Fouille de Textes:
+Mode d'emploi de l'archive de ce projet de Fouille de Textes:
 
 
 1) CV-AL_fdt2020.pdf est le compte-rendu rédigé par nos soins
