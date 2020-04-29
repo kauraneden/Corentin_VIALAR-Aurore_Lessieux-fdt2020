@@ -1,0 +1,37 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake
+Type de processeur, Intel Core i5-8600K (Hexa-Core 3.6GHz / 4.3GHz Turbo - Cache 9Mo)
+Processeur, Intel Core i5
+Fréquence CPU, 3.6GHz
+Taille de la mémoire, 16Go
+Type de mémoire, DDR4
+Capacité maximale de RAM par slot, 16Go
+Configuration disque(s), SSD-128Go + HDD-1To
+Disque dur, SSD-256Go
+Disque secondaire, HDD-1To
+Type de Disque Système, SSD (Solid State Drive)
+Vitesse de rotation, 7200RPM
+Lecteur Optique, Graveur DVD Super Multi
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA GeForce GTX-1070
+Taille mémoire vidéo, 8Go
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, 1xIntégré
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi AC
+Connecteurs panneau avant," 1xCasque (Jack 3.5mm Femelle),  1xJack 3,5mm Femelle Stéréo"
+Connecteurs panneau arrière," 1xHDMI Femelle,  1xDVI Femelle,  4xUSB-2.0,  RJ45Femelle,  6xJack 3,5mm Femelle Stéréo,  4xUSB-3.0"
+Clavier et souris fournis, Oui
+Format de PC, Tour
+Largeur, 253mm
+Hauteur, 563mm
+Profondeur, 520mm
+Poids, 13kg
+Puissance, 500W
+Monté, Oui
+Technologie Intel vPro, Non
+Garanties légales, Voir les modalités

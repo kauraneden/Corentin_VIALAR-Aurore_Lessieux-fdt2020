@@ -1,0 +1,66 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Core i3
+Plateforme (Proc.), Intel Ice Lake
+Type de processeur, Intel Core i3-1005G1 (Dual-Core 1.2GHz / 3.4GHz Turbo - Cache 4Mo)
+Fréquence CPU, 1.2GHz
+Nombre de core, 2
+Taille de la mémoire, 4Go
+Nombre de barrettes, 1
+Nombre de slots mémoire disponibles, 1
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Taille de mémoire Max, 16Go
+Chipset graphique, Intel UHD Graphics
+Ecran tactile, Non
+Type de Dalle, Dalle TN
+Type d'écran, LED
+Taille de l'écran, 15.6pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-256Go
+Disque dur, SSD-256Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur, M.2 - PCI-E NVMe
+Nombre de disques, 1
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique, Aucun
+Lecteur de cartes, Aucun
+Norme(s) réseau, 10/100Mbps
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 4.1
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Oui
+Clavier RGB, Non
+Pavé numérique, Oui
+Lecteur biométrique, Oui
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xJack 3,5mm Femelle Stéréo,  1xRJ45Femelle,  1xUSB-2.0,  2xUSB-3.0"
+Couleur, Argent
+Profondeur, 249mm
+Largeur, 364mm
+Epaisseur Avant, 18mm
+Epaisseur Arrière, 19.9mm
+Poids, 2.05kg
+Gamme, Dell Inspiron
+Ultrabook, Non
+Hybride / Convertible, Non
+Capacité de la batterie, 42Wh
+Nombre de cellules, 3
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2années constructeur
+Garanties légales, Voir les modalités

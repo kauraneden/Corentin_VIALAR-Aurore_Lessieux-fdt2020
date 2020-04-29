@@ -1,0 +1,41 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i7-9700F (Octo-Core 3GHz / 4.7GHz Turbo - 8Threads - Cache 12Mo)
+Processeur, Intel Core i7
+Fréquence CPU, 3GHz
+Chipset, Intel H310Express
+Taille de la mémoire, 16Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 32Go
+Configuration disque(s), SSD-512Go + HDD-1To
+Disque dur, SSD-512Go
+Disque secondaire, HDD-1To
+Type de Disque Système, HDD (Hard Disk Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA GeForce RTX-2060
+Taille mémoire vidéo, 6Go
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, 1xIntel WGI219V
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi AC
+Connecteurs panneau avant," 1xMicro (Jack3.5mm Femelle),  1xCasque (Jack 3.5mm Femelle),  1xHDMI Femelle,  1xUSB-3.0"
+Connecteurs panneau arrière," 3xJack 3,5mm Femelle Stéréo,  1xGigabit Ethernet - RJ45Femelle,  4xUSB-2.0,  1xUSB-3.0,  3xDisplayPort Femelle,  1xHDMI Femelle"
+Clavier et souris fournis, Non
+Format de PC, Desktop
+Largeur, 346.25mm
+Hauteur, 71.83mm
+Profondeur, 232.47mm
+Poids, 3.17kg
+Puissance, 330W
+Monté, Oui
+Technologie Intel vPro, Non
+Garantie commerciale, 2années constructeur
+Garanties légales, Voir les modalités

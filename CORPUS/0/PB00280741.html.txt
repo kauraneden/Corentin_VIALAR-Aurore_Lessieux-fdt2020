@@ -1,0 +1,68 @@
+,0
+Désignation, ASUS E402YA-GA118T Bleu
+Marque, ASUSASUS
+Modèle, 90NB0MF3-M02990
+Système d'exploitation, Windows 10Famille 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, AMD
+Processeur, AMD E2Dual-Core APU
+Type de processeur, AMD E2-7015 (Dual Core 1.5GHz - Cache 1Mo)
+Fréquence CPU, 1.5GHz
+Nombre de core, 2
+Taille de la mémoire, 4Go
+Nombre de barrettes, 1
+Taille de mémoire Max, 4Go
+Chipset graphique, AMD Radeon R2
+Max-Q (Design GPU), Non
+Ecran tactile, Non
+Type de Dalle, Dalle TN
+Type d'écran, LED
+Taille de l'écran, 14pouces
+Résolution Max, 1366x768pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Non
+Dalle brillante, Oui
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-256Go
+Disque dur, SSD-256Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur, Serial ATA
+Nombre de disques, 1
+Nombre de disques max, 1
+Emplacement mSATA/M.2, Aucun
+Lecteur Optique, Aucun
+Lecteur de cartes, SD (Secure Digital)
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 4.1
+Technologie Intel vPro, Non
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Non
+Clavier RGB, Non
+Pavé numérique, Non
+Lecteur biométrique, Non
+Accessoires Supplémentaires," Sacoche de transport,  Souris optique"
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xRJ45,  1xHDMI Femelle,  1xUSB-2.0,  1xJack 3,5mm Femelle Stéréo,  1xUSB-3.0,  1xUSB-3.0Type C"
+Couleur, Bleu
+Profondeur, 235mm
+Largeur, 339mm
+Epaisseur, 21.9mm
+Poids, 1.65kg
+Ultrabook, Non
+Hybride / Convertible, Non
+Nombre de cellules, 2
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2ans constructeur
+Garantie légale, Voir les modalités

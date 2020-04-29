@@ -1,0 +1,43 @@
+,0
+Désignation, Lenovo ThinkCentre M720t Tour (10SQ002BFR)
+Marque, LenovoLenovo
+Modèle, 10SQ002BFR
+Système d'exploitation, Windows 10Professionnel 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake
+Type de processeur, Intel Core i3-8100 (Quad-Core 3.6GHz - Cache 6Mo)
+Processeur, Intel Core i3
+Fréquence CPU, 3.2GHz
+Chipset, Intel B360Express
+Taille de la mémoire, 4Go
+Type de mémoire, DDR4
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), HDD-1To
+Disque dur, 1To
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, HDD (Hard Disk Drive)
+Vitesse de rotation, 7200RPM
+Lecteur Optique, Graveur DVD Super Multi
+Lecteur de disquettes, Non
+Chipset graphique, Intel UHD Graphics 630
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Non
+Sans-fil, Non
+Nombre de ports/Contrôleur Ethernet, 1xIntégré
+Norme(s) réseau, 10/100/1000Mbps
+Connecteurs panneau avant," 1xCasque (Jack 3.5mm Femelle),  1xMicro (Jack3.5mm Femelle),  2xUSB-3.0,  1xUSB-3.0Type C,  2xUSB-3.1"
+Connecteurs panneau arrière," 1xLine OUT (Jack 3.5mm Femelle),  1xSérie (RS-232),  1xRJ45Femelle,  4xUSB-2.0,  2xDisplayPort Femelle,  1xVGA (D-sub 15Femelle)"
+Clavier et souris fournis, Oui
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Largeur, 150mm
+Hauteur, 360mm
+Profondeur, 270.5mm
+Poids, 6.9kg
+Puissance, 180W
+Monté, Oui
+Usage, Professionnel
+Technologie Intel vPro, Non
+Garantie commerciale, 3ans constructeur
+Garantie légale, Voir les modalités

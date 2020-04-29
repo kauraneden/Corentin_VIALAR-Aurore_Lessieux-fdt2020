@@ -1,0 +1,74 @@
+,0
+Désignation, ASUS Zenbook 15UX534FT-A9002T
+Marque, ASUSASUS
+Modèle, 90NB0NK3-M00320
+Système d'exploitation, Windows 10Famille 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Core i7
+Plateforme (Proc.), Intel Whiskey Lake
+Type de processeur, Intel Core i7-8565U (Quad-Core 1.8GHz / 4.6GHz Turbo - Cache 8Mo)
+Fréquence CPU, 1.8GHz
+Nombre de core, 4
+Taille de la mémoire, 16Go
+Type de mémoire, DDR3
+Fréquence(s) Mémoire, DDR3 2133MHz
+Taille de mémoire Max, 16Go
+Chipset graphique, NVIDIA GeForce GTX-1650
+Taille mémoire vidéo, 4Go
+Type mémoire vidéo, GDDR5
+Max-Q (Design GPU), Oui
+Ecran tactile, Non
+Type de Dalle, Dalle IPS
+Type d'écran, LED
+Taille de l'écran, 15.6pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Non
+Dalle brillante, Oui
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-512Go
+Disque dur, SSD-512Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur, M.2 - PCI-E-3.0 2x
+Nombre de disques, 1
+Nombre de disques max, 1
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique, Aucun
+Lecteur de cartes, SD (Secure Digital)
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 5.0
+Technologie Intel vPro, Non
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Type d'activités," Graphisme,  Multimédia"
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Oui
+Clavier RGB, Non
+Pavé numérique, Oui
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xJack 3,5mm Femelle Stéréo,  1xUSB-3.0,  1xUSB-3.1,  1xUSB-3.1Type C Femelle,  1xHDMI Femelle"
+Couleur, Bleu foncé
+Profondeur, 220mm
+Largeur, 354mm
+Epaisseur, 18.9mm
+Poids, 1.67kg
+Gamme, ASUS Zenbook
+Ultrabook, Oui
+Hybride / Convertible, Non
+Autonomie, 10Heure(s)
+Capacité de la batterie, 71Wh
+Nombre de cellules, 8
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2ans constructeur
+Garantie légale, Voir les modalités

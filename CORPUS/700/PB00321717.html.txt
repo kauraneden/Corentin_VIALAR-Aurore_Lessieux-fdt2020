@@ -1,0 +1,73 @@
+,0
+Désignation, Lenovo ThinkBook 14-IML (20RV0002FR)
+Marque, LenovoLenovo
+Modèle, 20RV0002FR
+Système d'exploitation, Windows 10Professionnel 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Core i5
+Plateforme (Proc.), Intel Comet Lake
+Type de processeur, Intel Core i5-10210U (Quad-Core 1.6GHz / 4.2GHz Turbo - 8Threads - Cache 6Mo)
+Fréquence CPU, 1.6GHz
+Nombre de core, 4
+Taille de la mémoire, 8Go
+Nombre de barrettes, 1
+Nombre de slots mémoire disponibles, 1
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Taille de mémoire Max, 24Go
+Chipset graphique, Intel UHD Graphics
+Max-Q (Design GPU), Non
+Ecran tactile, Non
+Type de Dalle, Dalle IPS
+Type d'écran, LED
+Taille de l'écran, 14pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-256Go
+Disque dur, SSD-256Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur, M.2 - PCI-E
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique, Aucun
+Lecteur de cartes," Multimedia Card,  SD (Secure Digital),  SDHC,  SDXC"
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 5.0
+Technologie Intel vPro, Non
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Type d'activités, Professionnel
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Oui
+Clavier RGB, Non
+Pavé numérique, Non
+Lecteur biométrique, Oui
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xJack 3,5mm Femelle Stéréo,  1xRJ45,  1xUSB-2.0,  2xUSB-3.0,  1xUSB-3.0Type C,  1xUSB-3.1Type C,  1xHDMI Femelle"
+Matériau, Aluminium
+Couleur, Gris
+Profondeur, 230mm
+Largeur, 326mm
+Epaisseur, 17.9mm
+Poids, 1.5kg
+Gamme, Lenovo ThinkBook
+Ultrabook, Non
+Hybride / Convertible, Non
+Autonomie, 9Heure(s)
+Capacité de la batterie, 45Wh
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 1an constructeur
+Garantie légale, Voir les modalités

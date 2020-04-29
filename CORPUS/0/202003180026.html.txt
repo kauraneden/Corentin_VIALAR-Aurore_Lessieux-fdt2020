@@ -1,0 +1,39 @@
+,0
+Système d'exploitation, Sans OS
+Système d'exploitation fourni, Non
+Plateforme (Proc.), AMD Zen+
+Type de processeur, AMD Ryzen 3 3200G (4coeurs - 3.6GHz - Turbo 4GHz - Cache 6Mo - TDP-65W)
+Processeur, AMD Ryzen 3
+Fréquence CPU, 3.6GHz
+Modèle refroidissement CPU, Ventirad AMD d'origine
+Chipset, AMD B450
+Modèle de la carte mère, Gigabyte B450M DS3H
+Taille de la mémoire, 16Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Marque de la RAM, G.Skill
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-512Go
+Modèle du SSD, Kingston KC600
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - SATA-6Gb/s
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, AMD Radeon Vega 8Graphics
+Référence de la carte graphique, Chipset intégré AMD Radeon Vega
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Non
+Sans-fil, Non
+Norme(s) réseau, 10/100/1000Mbps
+Connecteurs panneau avant," 1xCasque (Jack 3.5mm Femelle),  1xMicro (Jack3.5mm Femelle)"
+Connecteurs panneau arrière," 3xJack 3,5mm Femelle Stéréo,  4xUSB-2.0,  4xUSB-3.0,  1xDVI Femelle"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Modèle du boitier, Corsair 110R
+Puissance, 450W
+Modèle de l'alimentation, Corsair CV
+Monté, Oui
+Gamme, Challenger
+Garanties légales, Voir les modalités

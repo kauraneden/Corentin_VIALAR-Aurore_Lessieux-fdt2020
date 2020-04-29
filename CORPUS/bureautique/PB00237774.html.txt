@@ -1,0 +1,39 @@
+,0
+Désignation, Shuttle XPC nano NC03U (NC3000BA)
+Marque, ShuttleShuttle
+Modèle, NC3000BA
+Système d'exploitation, Windows 10Professionnel 64bits
+Plateforme (Proc.), Intel Kaby Lake
+Type de processeur, Intel Celeron 3865U (Dual Core - 1.8GHz - Cache 2Mo)
+Processeur, Intel Celeron
+Fréquence CPU, 1.8GHz
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2133MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 32Go
+Configuration disque(s), SSD-32Go
+Disque dur, SSD-32Go
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, SSD (Solid State Drive)
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, Intel HD Graphics 610
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Non
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, Intel i211
+Norme(s) réseau," 10/100/1000Mbps,  Wi-Fi"
+Norme(s) réseau sans-fil," Wi-Fi B (IEEE-802.11b),  Wi-Fi G (IEEE-802.11g),  Wi-Fi N-150Mbps (IEEE-802.11n)"
+Connecteurs panneau avant," SD (Secure Digital),  SDHC,  1xUSB-3.0,  SDXC,  1xUSB-3.0Type C"
+Connecteurs panneau arrière," 1xCasque (Jack 3.5mm Femelle),  1xHDMI Femelle,  2xUSB-2.0,  1xRJ45Femelle,  1xDisplayPort Femelle"
+Clavier et souris fournis, Non
+Format de PC, Mini PC
+Format du boitier, Mini PC
+Largeur, 142mm
+Hauteur, 42mm
+Profondeur, 142mm
+Puissance, 65W
+Monté, Oui
+Usage," de Salon,  Professionnel"
+Technologie Intel vPro, Non
+Garantie légale, Voir les modalités

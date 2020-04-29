@@ -1,0 +1,65 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Core i7
+Plateforme (Proc.), Intel Whiskey Lake
+Type de processeur, Intel Core i7-8565U (Quad-Core 1.8GHz / 4.6GHz Turbo - Cache 8Mo)
+Fréquence CPU, 1.8GHz
+Nombre de core, 4
+Taille de la mémoire, 16Go
+Nombre de barrettes, 1
+Nombre de slots mémoire disponibles, 0
+Type de mémoire, DDR3L (1.35V)
+Taille de mémoire Max, 16Go
+Chipset graphique, NVIDIA GeForce MX150
+Taille mémoire vidéo, 2Go
+Type mémoire vidéo, GDDR5
+Ecran tactile, Non
+Type de Dalle, Dalle TN
+Type d'écran, LED
+Taille de l'écran, 14pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-1To
+Disque dur, SSD-1To
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur, M.2 - PCI-E NVMe
+Nombre de disques, 2
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique, Aucun
+Lecteur de cartes, SD (Secure Digital)
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 4.2
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, 4haut parleurs
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Oui
+Clavier RGB, Non
+Pavé numérique, Oui
+Lecteur biométrique, Oui
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xJack 3,5mm Femelle Stéréo,  1xUSB-2.0,  1xUSB-3.0,  1xUSB-3.1Type C"
+Couleur, Argent
+Profondeur, 211mm
+Largeur, 323mm
+Epaisseur, 15.9mm
+Poids, 1.45kg
+Gamme, ASUS Zenbook
+Ultrabook, Oui
+Hybride / Convertible, Non
+Nombre de cellules, 2
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2années constructeur
+Garanties légales, Voir les modalités

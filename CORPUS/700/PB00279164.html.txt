@@ -1,0 +1,43 @@
+,0
+Désignation, Lenovo ThinkStation P330SFF Gen 2 (30D1001YFR)
+Marque, LenovoLenovo
+Modèle, 30D1001YFR
+Système d'exploitation, Windows 10Professionnel 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i5-9400 (6-Core 2.9GHz / 4.1GHz Turbo - Cache 9Mo - 65W)
+Processeur, Intel Core i5
+Fréquence CPU, 2.9GHz
+Chipset, Intel C246
+Taille de la mémoire, 8Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-256Go
+Disque dur, SSD-256Go
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E
+Lecteur Optique, Graveur DVD Super Multi
+Lecteur de disquettes, Non
+Chipset graphique, Intel UHD Graphics 630
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Non
+Sans-fil, Non
+Nombre de ports/Contrôleur Ethernet, Intel I219-LM
+Norme(s) réseau, 10/100/1000Mbps
+Connecteurs panneau avant," 2xJack 3,5mm Femelle Stéréo,  2xUSB-3.0,  1xUSB-3.0Type C,  2xUSB-3.1"
+Connecteurs panneau arrière," 1xSérie (RS-232),  1xRJ45Femelle,  2xUSB-2.0,  2xUSB-3.0,  2xMini DisplayPort"
+Clavier et souris fournis, Oui
+Format de PC, Mini PC
+Largeur, 92.5mm
+Hauteur, 343.5mm
+Profondeur, 305.6mm
+Poids, 6kg
+Puissance, 210W
+Monté, Oui
+Usage, Professionnel
+Technologie Intel vPro, Non
+Garantie commerciale, 3ans constructeur
+Garantie légale, Voir les modalités

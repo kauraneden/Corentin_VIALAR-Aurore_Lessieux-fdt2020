@@ -1,0 +1,42 @@
+,0
+Système d'exploitation, Sans OS
+Système d'exploitation fourni, Non
+Plateforme (Proc.), Intel Kaby Lake
+Type de processeur, Intel Core i3-7100 (Dual-Core 3.9GHz - Cache 3Mo)
+Processeur, Intel Core i3
+Fréquence CPU, 3.9GHz
+Chipset, Intel H110Express
+Taille de la mémoire, 4Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 32Go
+Configuration disque(s), SSD-128Go
+Disque dur, SSD-128Go
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, SSD (Solid State Drive)
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, Intel HD Graphics 630
+Type de multi-GPU, Aucun
+Type d'écran, LED tactile
+Taille de l'écran, 19.5pouces
+Résolution Max, 1600x900pixels
+VR Ready (réalité virtuelle), Non
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, Intégré
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi AC
+Connecteurs panneau avant," Memory Stick,  SD (Secure Digital),  Multimedia Card,  1xMicro (Jack3.5mm Femelle),  1xCasque (Jack 3.5mm Femelle),  2xUSB-3.0"
+Connecteurs panneau arrière," 2xSérie (RS-232),  1xHDMI Femelle,  3xUSB-2.0,  1xVGA (D-sub 15Femelle),  1xRJ45Femelle,  1xUSB-3.0"
+Clavier et souris fournis, Oui
+Format de PC, Tout en un
+Largeur, 490.18mm
+Hauteur, 394.97mm
+Profondeur, 209.47mm
+Poids, 6.96kg
+Puissance, 65W
+Monté, Oui
+Usage, de Salon
+Technologie Intel vPro, Non
+Garanties légales, Voir les modalités

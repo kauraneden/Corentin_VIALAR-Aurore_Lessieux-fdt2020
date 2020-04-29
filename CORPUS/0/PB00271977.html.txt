@@ -1,0 +1,70 @@
+,0
+Désignation, ASUS Chromebook C423NA-EC0109
+Marque, ASUSASUS
+Modèle, C423NA-EC0109
+Système d'exploitation, Chrome OS
+Famille OS, Chrome OS
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Celeron
+Plateforme (Proc.), Intel Apollo Lake
+Type de processeur, Intel Celeron N3350 (Dual-Core 1.1GHz / 2.4GHz Rafale - Cache 2Mo)
+Fréquence CPU, 1.1GHz
+Nombre de core, 4
+Taille de la mémoire, 4Go
+Nombre de barrettes, 1
+Nombre de slots mémoire disponibles, 0
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Taille de mémoire Max, 4Go
+Chipset graphique, Intel HD Graphics 500
+Max-Q (Design GPU), Non
+Ecran tactile, Non
+Type de Dalle, Dalle TN
+Type d'écran, LED
+Taille de l'écran, 14pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), eMMC-64Go
+Disque dur, eMMC-64Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, eMMC (Puce à mémoire Flash)
+Emplacement mSATA/M.2, Aucun
+Lecteur Optique, Aucun
+Lecteur de cartes," micro SD,  micro SDHC,  micro SDXC"
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 4.0
+Technologie Intel vPro, Non
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Type d'activités," Internet,  Multimédia"
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Non
+Clavier RGB, Non
+Pavé numérique, Non
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xJack 3,5mm Femelle Stéréo,  2xUSB-3.0,  2xUSB-3.0Type C"
+Couleur, Argent
+Profondeur, 228mm
+Largeur, 322.6mm
+Epaisseur, 16.1mm
+Poids, 1.34kg
+Gamme, ASUS Chromebook
+Ultrabook, Oui
+Hybride / Convertible, Non
+Autonomie, 10Heure(s)
+Nombre de cellules, 2
+Batterie amovible, Non
+Chargeur secteur USB-C, Oui
+Garantie commerciale, 2ans constructeur
+Garantie légale, Voir les modalités

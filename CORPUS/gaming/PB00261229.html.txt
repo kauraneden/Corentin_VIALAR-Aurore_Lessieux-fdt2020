@@ -1,0 +1,44 @@
+,0
+Désignation, ASUS ROG G12CM-C-FR017T Edition Call of Duty Black OPS IV
+Marque, ASUSASUS
+Modèle, G12CM-C-FR017T
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake
+Type de processeur, Intel Core i7-8700 (Hexa-Core 3.2GHz / 4.6GHz Turbo - Cache 12Mo)
+Processeur, Intel Core i7
+Fréquence CPU, 3.2GHz
+Chipset, Intel Z370Express
+Taille de la mémoire, 32Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-512Go + HDD-1To
+Disque dur, SSD-512Go
+Disque secondaire, HDD-1To
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E NVMe
+Lecteur Optique, Graveur DVD Super Multi
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA GeForce RTX-2080
+Taille mémoire vidéo, 8Go
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, Intégré
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil," Bluetooth 5.0,  Wi-Fi AC"
+Connecteurs panneau avant," 2xUSB-2.0,  2xUSB-3.0,  SD (Secure Digital)"
+Connecteurs panneau arrière," 5xJack 3,5mm Femelle Stéréo,  1xAudio numérique S/PDIF,  1xRJ45Femelle,  2xUSB-2.0,  4xUSB-3.0,  2xUSB-3.1,  1xUSB-3.1Type C Femelle,  2xDisplayPort Femelle,  1xHDMI Femelle"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Largeur, 179mm
+Hauteur, 456mm
+Profondeur, 400mm
+Poids, 11kg
+Puissance, 500W
+Monté, Oui
+Technologie Intel vPro, Non
+Garantie légale, Voir les modalités

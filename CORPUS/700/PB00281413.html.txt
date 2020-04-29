@@ -1,0 +1,44 @@
+,0
+Désignation, MSI Infinite S-9SI-080EU
+Marque, MSIMSI
+Modèle, 9S6-B92811-080
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i7-9700F (Octo-Core 3GHz / 4.7GHz Turbo - 8Threads - Cache 12Mo)
+Processeur, Intel Core i7
+Fréquence CPU, 3GHz
+Chipset, Intel H310Express
+Taille de la mémoire, 8Go
+Type de mémoire, DDR4
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 32Go
+Configuration disque(s), SSD-512Go + HDD-1To
+Disque dur, SSD-512Go
+Disque secondaire, HDD-1To
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E
+Vitesse de rotation, 7200RPM
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA GeForce GTX-1660Ti
+Taille mémoire vidéo, 6Go
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Non
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, Intel I219-V
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil," Bluetooth 4.2,  Wi-Fi AC"
+Connecteurs panneau avant," 1xCasque (Jack 3.5mm Femelle),  1xMicro (Jack3.5mm Femelle),  1xUSB-2.0,  1xUSB-2.0Type C Femelle"
+Connecteurs panneau arrière," 5xJack 3,5mm Femelle Stéréo,  1xAudio numérique S/PDIF Optique,  1xRJ45Femelle,  2xUSB-2.0,  4xUSB-3.0,  3xDisplayPort Femelle,  1xHDMI Femelle"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Largeur, 128mm
+Hauteur, 244mm
+Profondeur, 348mm
+Poids, 7.32kg
+Puissance, 350W
+Monté, Oui
+Technologie Intel vPro, Non
+Garantie commerciale, 2ans constructeur
+Garantie légale, Voir les modalités

@@ -1,0 +1,67 @@
+,0
+Désignation, MSI WS65 8SK-435FR Workstation
+Marque, MSIMSI
+Modèle, WS65 8SK-435FR
+Système d'exploitation, Windows 10Professionnel 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Core i7
+Plateforme (Proc.), Intel Coffee Lake
+Type de processeur, Intel Core i7-8750H (Hexa-Core 2.2GHz / 4.1GHz Turbo - 12Threads - Cache 9Mo)
+Fréquence CPU, 2.2GHz
+Nombre de core, 6
+Chipset, Mobile Intel HM370Express
+Taille de la mémoire, 32Go
+Nombre de barrettes, 2
+Nombre de slots mémoire disponibles, 0
+Type de mémoire, DDR4
+Taille de mémoire Max, 32Go
+Chipset graphique, NVIDIA Quadro P3200
+Taille mémoire vidéo, 6Go
+Type mémoire vidéo, GDDR5
+Max-Q (Design GPU), Non
+Ecran tactile, Non
+Type de Dalle, Dalle IPS
+Type d'écran, LED
+Taille de l'écran, 15.6pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Oui
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-512Go
+Disque dur, SSD-512Go
+Disque secondaire, Sans disque secondaire
+Interface du disque dur, M.2 - PCI-E NVMe
+Nombre de disques, 1
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique, Aucun
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 5.0
+Technologie Intel vPro, Non
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Type d'activités, Graphisme
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Oui
+Clavier RGB, Non
+Pavé numérique, Non
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xCasque (Jack 3.5mm Femelle),  1xMicro (Jack3.5mm Femelle),  1xRJ45,  3xUSB-3.1,  1xUSB-3.1Type C Femelle,  1xMini DisplayPort,  1xHDMI-2.0Femelle"
+Couleur, Noir
+Profondeur, 247.7mm
+Largeur, 357.7mm
+Epaisseur, 17.9mm
+Poids, 1.88kg
+Ultrabook, Non
+Hybride / Convertible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 3ans constructeur
+Garantie légale, Voir les modalités

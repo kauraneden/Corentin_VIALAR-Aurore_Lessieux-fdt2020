@@ -1,0 +1,41 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake
+Type de processeur, Intel Core i7-8700 (Hexa-Core 3.2GHz / 4.6GHz Turbo - Cache 12Mo)
+Processeur, Intel Core i7
+Fréquence CPU, 3.2GHz
+Chipset, Intel C246
+Taille de la mémoire, 16Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-256Go + HDD-2To
+Disque dur, SSD-256Go
+Disque secondaire, HDD-2To
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - SATA-6Gb/s
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA GeForce RTX-2080
+Taille mémoire vidéo, 8Go
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, 2xIntel intégré
+Norme(s) réseau, 10/100/1000Mbps
+Connecteurs panneau avant," 2xJack 3,5mm Femelle Stéréo,  2xUSB-2.0"
+Connecteurs panneau arrière," 5xJack 3,5mm Femelle Stéréo,  1xAudio numérique S/PDIF,  2xRJ45Femelle,  4xUSB-3.0,  2xUSB-3.1,  DisplayPort Femelle"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Largeur, 230mm
+Hauteur, 525mm
+Profondeur, 578mm
+Poids, 11kg
+Puissance, 700W
+Monté, Oui
+Technologie Intel vPro, Non
+Garantie commerciale, 2années constructeur
+Garanties légales, Voir les modalités

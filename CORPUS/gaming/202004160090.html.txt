@@ -1,0 +1,38 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i9 9900KF (8coeurs /16threads - 3.60Ghz - Turbo Boost 5Ghz - Cache 16Mo - TDP-95W)
+Processeur, Intel Core i9
+Fréquence CPU, 3.6GHz
+Modèle refroidissement CPU, Corsair H115i Platinum
+Chipset, Intel Z390Express
+Modèle de la carte mère, MSI MPG Z390GAMING PRO CARBON AC
+Taille de la mémoire, 32Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 3200MHz
+Marque de la RAM, G.Skill
+Capacité maximale de RAM par slot, 32Go
+Capacité maximale de RAM, 128Go
+Configuration disque(s), SSD-500Go + HDD-2To
+Disque dur, 2To
+Modèle du SSD, Kingston KC2000
+Modèle du disque dur, Seagate Barracuda
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E NVMe
+Lecteur Optique, Aucun
+Chipset graphique, NVIDIA GeForce RTX-2080SUPER
+Taille mémoire vidéo, 8Go
+Référence de la carte graphique, MSI GeForce RTX-2080SUPER GAMING xTRIO
+VR Ready (réalité virtuelle), Oui
+Nombre de ports/Contrôleur Ethernet, 1xIntégré
+Connecteurs panneau avant," 2xJack 3,5mm Femelle Stéréo,  2xUSB-2.0"
+Connecteurs panneau arrière," 5xJack 3,5mm Femelle Stéréo,  1xAudio numérique S/PDIF Optique,  2xUSB-2.0,  3xUSB-3.1,  1xUSB-3.1Type C,  3xDisplayPort Femelle,  1xDisplayPort USB Type C"
+Format de PC, Tour
+Format du boitier, Grand Tour
+Modèle du boitier, NZXT H700Black
+Puissance, 750W
+Modèle de l'alimentation, Antec HCG750Gold
+Monté, Oui
+Gamme, Elite
+Garanties légales, Voir les modalités

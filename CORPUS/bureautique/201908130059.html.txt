@@ -1,0 +1,66 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Core i7
+Plateforme (Proc.), Intel Comet Lake
+Type de processeur, Intel Core i7-10510U (Quad-Core 1.8GHz / 4.9GHz Turbo - 8Threads - Cache 8Mo)
+Fréquence CPU, 1.8GHz
+Nombre de core, 4
+Taille de la mémoire, 16Go
+Nombre de barrettes, 2
+Nombre de slots mémoire disponibles, 0
+Type de mémoire, DDR4
+Taille de mémoire Max, 16Go
+Chipset graphique, NVIDIA GeForce MX250
+Taille mémoire vidéo, 2Go
+Type mémoire vidéo, GDDR5
+Ecran tactile, Non
+Type de Dalle, Dalle TN
+Type d'écran, LED
+Taille de l'écran, 15.6pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-1To
+Disque dur, SSD-1To
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur, M.2 - PCI-E-3.0 2x
+Nombre de disques, 1
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique, Aucun
+Lecteur de cartes, micro SD
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 4.2
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Oui
+Clavier RGB, Non
+Pavé numérique, Oui
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xHDMI Femelle,  2xUSB-2.0,  1xJack 3,5mm Femelle Stéréo,  1xUSB-3.0"
+Couleur, Argent
+Profondeur, 230mm
+Largeur, 357mm
+Epaisseur, 18mm
+Poids, 1.8kg
+Gamme, ASUS Vivobook
+Ultrabook, Non
+Hybride / Convertible, Non
+Capacité de la batterie, 42Wh
+Nombre de cellules, 3
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garanties légales, Voir les modalités

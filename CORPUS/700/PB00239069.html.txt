@@ -1,0 +1,43 @@
+,0
+Désignation, MSI VortexG25 8RD-028FR
+Marque, MSIMSI
+Modèle, 9S7-1T3111-028
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake
+Type de processeur, Intel Core i5-8400 (Hexa-Core 2.8GHz / 4GHz Turbo - Cache 9Mo)
+Processeur, Intel Core i5
+Fréquence CPU, 2.8GHz
+Chipset, Intel Z370Express
+Taille de la mémoire, 8Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-128Go + HDD-1To
+Disque dur, SSD-128Go
+Disque secondaire, HDD-1To
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - SATA-6Gb/s
+Vitesse de rotation, 7200RPM
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA GeForce GTX-1060
+Taille mémoire vidéo, 6Go
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, 1xIntégré
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil," Wi-Fi AC,  Bluetooth 4.2"
+Connecteurs panneau avant," 1xMicro (Jack3.5mm Femelle),  1xCasque (Jack 3.5mm Femelle),  2xUSB-3.0,  1xHDMI-2.0Femelle,  1xUSB-3.0Type C"
+Connecteurs panneau arrière," 1xRJ45,  1xAudio numérique S/PDIF Optique,  2xUSB-3.0,  1xHDMI-2.0Femelle,  1xUSB-3.1Type C Femelle"
+Clavier et souris fournis, Non
+Format de PC, Mini PC
+Largeur, 43mm
+Hauteur, 331mm
+Profondeur, 279mm
+Poids, 2.5kg
+Monté, Oui
+Technologie Intel vPro, Non
+Garantie légale, Voir les modalités

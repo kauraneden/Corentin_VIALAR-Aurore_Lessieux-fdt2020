@@ -1,0 +1,38 @@
+,0
+Désignation, LDLC PC Chopin-I3-8-S1-H10
+Marque, LDLCLDLC
+Modèle, PC CHOPIN-I3-8-S1-H10
+Système d'exploitation, Sans OS
+Système d'exploitation fourni, Non
+Plateforme (Proc.), Intel Coffee Lake
+Type de processeur, Intel Core i3-8100 (Quad-Core 3.6GHz - cache 6Mo - TDP-65W)
+Processeur, Intel Core i3
+Fréquence CPU, 3.6GHz
+Chipset, Intel H310Express
+Taille de la mémoire, 8Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2133MHz
+Capacité maximale de RAM par slot, 8Go
+Capacité maximale de RAM, 16Go
+Configuration disque(s), SSD-120Go + HDD-1To
+Disque dur, SSD-120Go
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - SATA-6Gb/s
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, Intel HD Graphics 630
+VR Ready (réalité virtuelle), Non
+Sans-fil, Non
+Nombre de ports/Contrôleur Ethernet, Intel I219-V
+Norme(s) réseau," Bluetooth 4.0,  10/100/1000Mbps,  Wi-Fi AC"
+Connecteurs panneau avant," 1xCasque (Jack 3.5mm Femelle),  1xMicro (Jack3.5mm Femelle),  2xUSB-3.0"
+Connecteurs panneau arrière," 2xSMA Femelle,  3xJack 3,5mm Femelle Stéréo,  1xMiniDin 6Femelle (PS/2),  1xRJ45Femelle,  2xUSB-2.0,  2xUSB-3.0,  1xDisplayPort Femelle,  1xDVI Femelle,  1xHDMI Femelle"
+Clavier et souris fournis, Non
+Format de PC, Mini PC
+Format du boitier, Mini Tour
+Puissance, 300W
+Monté, Non
+Gamme de PC LDLC, Publik
+Usage, Professionnel
+Garantie légale, Voir les modalités

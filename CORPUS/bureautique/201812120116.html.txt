@@ -1,0 +1,66 @@
+,0
+Système d'exploitation, Windows 10Professionnel 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Core i5
+Plateforme (Proc.), Intel Whiskey Lake
+Type de processeur, Intel Core i5-8265U (Quad-Core 1.6GHz / 3.9GHz Turbo - Cache 6Mo)
+Fréquence CPU, 1.6GHz
+Nombre de core, 4
+Taille de la mémoire, 8Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Taille de mémoire Max, 32Go
+Chipset graphique, NVIDIA GeForce GTX-1050
+Taille mémoire vidéo, 4Mo
+Type mémoire vidéo, GDDR5
+Ecran tactile, Non
+Type de Dalle, Dalle IPS
+Type d'écran, LED
+Taille de l'écran, 15.6pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-256Go
+Disque dur, SSD-256Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur, M.2 - PCI-E NVMe
+Nombre de disques, 1
+Nombre de disques max, 2
+Emplacement mSATA/M.2, 1xM.2 (occupé)
+Lecteur Optique, Aucun
+Lecteur de cartes, micro SD
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 5.0
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Oui
+Clavier RGB, Non
+Pavé numérique, Non
+Lecteur biométrique, Oui
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xJack 3,5mm Femelle Stéréo,  2xUSB-3.0,  1xUSB-3.0Type C,  1xUSB-3.1"
+Profondeur, 233.7mm
+Largeur, 356.8mm
+Epaisseur, 15.9mm
+Poids, 1.6kg
+Gamme, MSI Série Prestige PS
+Ultrabook, Non
+Hybride / Convertible, Non
+Autonomie, 16Heure(s)
+Nombre de cellules, 4
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 3années constructeur
+Garanties légales, Voir les modalités

@@ -1,0 +1,39 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), AMD Zen 2
+Type de processeur, AMD Ryzen 7 3700X (8coeurs / 16threads - 3.60GHz - Turbo 4.40GHz - Cache 32Mo - TDP-65W)
+Processeur, AMD Ryzen 7
+Fréquence CPU, 3.6GHz
+Modèle refroidissement CPU, Be Quiet Dark Rock 4
+Chipset, AMD X570
+Taille de la mémoire, 64Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 3200MHz
+Marque de la RAM, G.Skill Flare X
+Capacité maximale de RAM par slot, 32Go
+Capacité maximale de RAM, 128Go
+Configuration disque(s), SSD-512Go
+Disque secondaire, 3xHDD-6To
+Modèle du SSD, Samsung 970PRO NVMe
+Modèle du disque dur, Seagate Barracuda
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E NVMe
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA GeForce RTX-2080SUPER
+Taille mémoire vidéo, 8Go
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Oui
+Norme(s) réseau, 10/100/1000Mbps
+Connecteurs panneau avant," 1xMicro (Jack3.5mm Femelle),  1xCasque (Jack 3.5mm Femelle),  2xUSB-2.0"
+Connecteurs panneau arrière," 5xJack 3,5mm Femelle Stéréo,  1xAudio numérique S/PDIF Optique,  2xUSB-2.0,  2xUSB-3.0,  3xUSB-3.1,  1xUSB-3.1Type C Femelle,  3xDisplayPort Femelle,  1xDisplayPort USB Type C"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Modèle du boitier, Antec P101Silent
+Puissance, 750W
+Modèle de l'alimentation, Corsair RMxV2
+Monté, Oui
+Gamme, Elite
+Garanties légales, Voir les modalités

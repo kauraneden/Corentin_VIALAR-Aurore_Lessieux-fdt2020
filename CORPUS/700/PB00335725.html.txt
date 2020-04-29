@@ -1,0 +1,40 @@
+,0
+Désignation, LDLC PC10GeForce eSPORT PCS BATTLE ROYAL
+Marque, LDLCLDLC
+Modèle, PC10GEFORCE ESPORT PCS GEFORCE BATTLE ROYAL EDITI
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i5-9400F (6-Core 2.9GHz / 4.1GHz Turbo - Cache 9Mo - TDP-65W)
+Processeur, Intel Core i5
+Fréquence CPU, 2.9GHz
+Chipset, Intel B360Express
+Taille de la mémoire, 8Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-240Go + HDD-2To
+Disque dur, SSD-240Go
+Disque secondaire, HDD-2To
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E-3.0 4x
+Vitesse de rotation, 7200RPM
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA GeForce GTX-1660SUPER
+Taille mémoire vidéo, 6Go
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Non
+Nombre de ports/Contrôleur Ethernet, Intel I219-V
+Norme(s) réseau, 10/100/1000Mbps
+Connecteurs panneau avant," Casque (Jack 3.5mm Femelle),  Micro (Jack3.5mm Femelle),  2xUSB-3.0"
+Connecteurs panneau arrière," 6xJack 3,5mm Mâle Stéréo,  1xMiniDin 6Femelle (PS/2),  1xRJ45Femelle,  2xUSB-2.0,  2xUSB-3.0,  1xUSB-3.1,  1xUSB-3.1Type C,  3xDisplayPort Femelle,  1xHDMI Femelle"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Puissance, 550W
+Monté, Oui
+Technologie Intel vPro, Non
+Garantie légale, Voir les modalités

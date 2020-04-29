@@ -1,0 +1,44 @@
+,0
+Désignation, ASUS Mini PC ProArt PA90-M9002ZN
+Marque, ASUSASUS
+Modèle, 90MS01J1-M00020
+Système d'exploitation, Windows 10Professionnel 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i9-9900K (Octo-Core 3.6GHz / 5GHz Turbo - 16Threads - Cache 16Mo)
+Processeur, Intel Core i9
+Fréquence CPU, 3.6GHz
+Chipset, Intel Z390Express
+Taille de la mémoire, 32Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-512Go
+Disque dur, SSD-512Go
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA Quadro P4000
+Taille mémoire vidéo, 8Go
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, Intégré
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil," Bluetooth 5.0,  Wi-Fi AC"
+Connecteurs panneau avant," 1xCasque (Jack 3.5mm Femelle),  1xMicro (Jack3.5mm Femelle),  2xUSB-3.1"
+Connecteurs panneau arrière," 1xLine OUT (Jack 3.5mm Femelle),  1xRJ45,  2xUSB-3.1,  4xDisplayPort Femelle,  2xThunderbolt 3"
+Clavier et souris fournis, Non
+Format de PC, Mini PC
+Largeur, 176mm
+Hauteur, 365mm
+Profondeur, 176mm
+Poids, 5.8kg
+Monté, Oui
+Usage, Professionnel
+Technologie Intel vPro, Non
+Garantie commerciale, 3ans constructeur
+Garantie légale, Voir les modalités

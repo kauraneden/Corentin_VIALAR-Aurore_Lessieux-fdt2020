@@ -1,0 +1,68 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Core i7
+Plateforme (Proc.), Intel Whiskey Lake
+Type de processeur, Intel Core i7-8565U (Quad-Core 1.8GHz / 4.6GHz Turbo - Cache 8Mo)
+Fréquence CPU, 1.8GHz
+Nombre de core, 4
+Taille de la mémoire, 8Go
+Nombre de barrettes, 1
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Chipset graphique, AMD Radeon 520
+Taille mémoire vidéo, 2Go
+Type mémoire vidéo, GDDR5
+Ecran tactile, Non
+Type de Dalle, Dalle IPS
+Type d'écran, LED
+Taille de l'écran, 17.3pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-128Go + HDD-1To
+Disque dur, SSD-128Go
+Disque secondaire, HDD-1To
+Type de Disque, HDD (Hard Disk Drive)
+Vitesse de rotation, 5400RPM
+Interface du disque dur, M.2 - PCI-E NVMe
+Nombre de disques, 2
+Nombre de disques max, 2
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique," Graveur CD,  Graveur DVD,  Lecteur CD"
+Lecteur de cartes, SD (Secure Digital)
+Norme(s) réseau, 10/100Mbps
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 4.1
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Non
+Clavier RGB, Non
+Pavé numérique, Oui
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xJack 3,5mm Femelle Stéréo,  1xRJ45Femelle,  1xUSB-2.0,  2xUSB-3.0"
+Couleur, Noir
+Profondeur, 279.2mm
+Largeur, 415.4mm
+Epaisseur, 25mm
+Poids, 2.79kg
+Gamme, Dell Inspiron
+Ultrabook, Non
+Hybride / Convertible, Non
+Nombre de cellules, 3
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2années constructeur
+Garanties légales, Voir les modalités

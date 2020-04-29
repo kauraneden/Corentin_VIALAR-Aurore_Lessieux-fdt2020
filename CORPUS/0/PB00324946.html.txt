@@ -1,0 +1,71 @@
+,0
+Désignation, Lenovo IdeaPad S145-15AST (81N3002JFR)
+Marque, LenovoLenovo
+Modèle, 81N3002JFR
+Système d'exploitation, Windows 10S
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, AMD
+Processeur, AMD A9Dual-Core APU
+Plateforme (Proc.), AMD Stoney Ridge
+Type de processeur, AMD A9-9425 (Dual-Core 3.1GHz / 3.7GHz Turbo - Cache 1Mo)
+Fréquence CPU, 3.1GHz
+Nombre de core, 2
+Taille de la mémoire, 4Go
+Nombre de barrettes, 1
+Nombre de slots mémoire disponibles, 0
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2133MHz
+Taille de mémoire Max, 8Go
+Chipset graphique, AMD Radeon R5
+Max-Q (Design GPU), Non
+Ecran tactile, Non
+Type de Dalle, Dalle TN
+Type d'écran, LED
+Taille de l'écran, 15.6pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-128Go
+Disque dur, SSD-128Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur, Serial ATA-6Gb/s (SATA Revision 3)
+Nombre de disques, 1
+Emplacement mSATA/M.2, Aucun
+Lecteur Optique, Aucun
+Lecteur de cartes," Multimedia Card,  SD (Secure Digital),  SDHC,  SDXC"
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 4.2
+Technologie Intel vPro, Non
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Non
+Clavier RGB, Non
+Pavé numérique, Non
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xJack 3,5mm Femelle Stéréo,  1xUSB-2.0,  2xUSB-3.0,  1xHDMI Femelle"
+Couleur, Noir
+Profondeur, 251.5mm
+Largeur, 362.2mm
+Epaisseur, 19.9mm
+Poids, 1.85kg
+Gamme, Lenovo IdeaPad
+Ultrabook, Non
+Hybride / Convertible, Non
+Autonomie, 4Heure(s)
+Capacité de la batterie, 30Wh
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2ans constructeur
+Garantie légale, Voir les modalités

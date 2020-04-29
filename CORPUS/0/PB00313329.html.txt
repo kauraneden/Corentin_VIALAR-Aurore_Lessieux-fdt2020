@@ -1,0 +1,69 @@
+,0
+Désignation, ASUS VivoBook Flip TP401MA-BZ013R
+Marque, ASUSASUS
+Modèle, 90NB0IV1-M03860
+Système d'exploitation, Windows 10Professionnel 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Celeron
+Plateforme (Proc.), Intel Gemini Lake
+Type de processeur, Intel Celeron N4000 (Dual-Core 1.1GHz / 2.6GHz Rafale - Cache 4Mo)
+Fréquence CPU, 1.1GHz
+Nombre de core, 2
+Taille de la mémoire, 4Go
+Nombre de barrettes, 1
+Type de mémoire, DDR4
+Taille de mémoire Max, 4Go
+Chipset graphique, Intel UHD Graphics 600
+Max-Q (Design GPU), Non
+Ecran tactile, Oui
+Type de Dalle, Dalle TN
+Type d'écran, LED tactile
+Taille de l'écran, 14pouces
+Résolution Max, 1366x768pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Non
+Dalle brillante, Oui
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), eMMC-64Go
+Disque dur, eMMC-64Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, eMMC (Puce à mémoire Flash)
+Nombre de disques, 1
+Nombre de disques max, 1
+Emplacement mSATA/M.2, Aucun
+Lecteur Optique, Aucun
+Lecteur de cartes," SD (Secure Digital),  SDXC"
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 4.1
+Technologie Intel vPro, Non
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Non
+Clavier RGB, Non
+Pavé numérique, Non
+Lecteur biométrique, Non
+Office fourni, Oui
+Connecteur(s) disponible(s)," 1xJack 3,5mm Femelle Stéréo,  1X micro-USB-2.0,  1xUSB-3.0Type C,  1X micro HDMI Femelle"
+Couleur, Argent
+Profondeur, 226mm
+Largeur, 327mm
+Epaisseur, 15.4mm
+Poids, 1.5kg
+Gamme, ASUS Vivobook
+Ultrabook, Oui
+Hybride / Convertible, Non
+Capacité de la batterie, 39Wh
+Nombre de cellules, 2
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2ans constructeur
+Garantie légale, Voir les modalités

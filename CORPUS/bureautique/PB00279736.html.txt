@@ -1,0 +1,45 @@
+,0
+Désignation, LDLC CUBIC MP2 + Ecran LDLC LED M27
+Marque, LDLCLDLC
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Gemini Lake
+Type de processeur, Intel Celeron N4000 (Dual-Core 1.1GHz / 2.6GHz Rafale- Cache 4Mo)
+Processeur, Intel Celeron
+Fréquence CPU, 1.1GHz
+Taille de la mémoire, 4Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Capacité maximale de RAM par slot, 4Go
+Capacité maximale de RAM, 8Go
+Configuration disque(s), eMMC-64Go
+Disque dur, eMMC-64Go
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, eMMC (Puce à mémoire Flash)
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, Intel UHD Graphics 600
+Type de multi-GPU, Aucun
+Type d'écran, LED
+Taille de l'écran, 27pouces
+Résolution Max, 1920x1080pixels
+VR Ready (réalité virtuelle), Non
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, Intégré
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil," Wi-Fi AC,  Bluetooth 4.2"
+Connecteurs panneau avant," 1xJack 3,5mm Femelle Stéréo,  3xUSB-3.0,  1xUSB-3.0Type C"
+Connecteurs panneau arrière," 1xHDMI Femelle,  2xUSB-2.0,  1xGigabit Ethernet - RJ45Femelle,  1xHDMI-2.0Femelle"
+Clavier et souris fournis, Oui
+Format de PC, Mini PC
+Format du boitier, Mini PC
+Largeur, 132mm
+Hauteur, 56.4mm
+Profondeur, 118mm
+Poids, 640g
+Puissance, 65W
+Monté, Oui
+Gamme de PC LDLC, Publik
+Usage," de Salon,  Professionnel"
+Technologie Intel vPro, Non
+Garantie légale, Voir les modalités

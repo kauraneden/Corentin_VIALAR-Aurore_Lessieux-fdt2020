@@ -1,0 +1,67 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Core i3
+Plateforme (Proc.), Intel Kaby Lake
+Type de processeur, Intel Core i3-7020U (Dual-Core 2.3GHz - Cache 3Mo)
+Fréquence CPU, 2.3GHz
+Nombre de core, 2
+Taille de la mémoire, 4Go
+Nombre de barrettes, 1
+Nombre de slots mémoire disponibles, 1
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2133MHz
+Taille de mémoire Max, 12Go
+Chipset graphique, Intel HD Graphics 620
+Ecran tactile, Non
+Type de Dalle, Dalle TN
+Type d'écran, LED
+Taille de l'écran, 14pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-512Go
+Disque dur, SSD-512Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur, M.2 - PCI-E
+Nombre de disques, 1
+Nombre de disques max, 1
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique, Aucun
+Lecteur de cartes," SD (Secure Digital),  Multimedia Card,  SDHC"
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 4.1
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Oui
+Clavier RGB, Non
+Pavé numérique, Non
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xHDMI Femelle,  1xJack 3,5mm Femelle Stéréo,  2xUSB-3.0"
+Couleur, Gris
+Profondeur, 234.8mm
+Largeur, 323.1mm
+Epaisseur, 18.95mm
+Poids, 1.6kg
+Gamme, Lenovo IdeaPad
+Ultrabook, Non
+Hybride / Convertible, Non
+Autonomie, 6Heure(s)
+Nombre de cellules, 2
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2années constructeur
+Garanties légales, Voir les modalités

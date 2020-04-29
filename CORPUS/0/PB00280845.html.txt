@@ -1,0 +1,68 @@
+,0
+Désignation, ASUS Chromebook C204MA-GJ0074
+Marque, ASUSASUS
+Modèle, 90NX02A1-M00840
+Système d'exploitation, Chrome OS
+Famille OS, Chrome OS
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Celeron
+Plateforme (Proc.), Intel Gemini Lake
+Type de processeur, Intel Celeron N4000 (Dual-Core 1.1GHz / 2.6GHz Rafale - Cache 4Mo)
+Fréquence CPU, 1.1GHz
+Nombre de core, 2
+Taille de la mémoire, 4Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Chipset graphique, Intel UHD Graphics 600
+Max-Q (Design GPU), Non
+Ecran tactile, Non
+Type de Dalle, Dalle TN
+Type d'écran, LED
+Taille de l'écran, 11.6pouces
+Résolution Max, 1366x768pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), eMMC-32Go
+Disque dur, eMMC-32Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, eMMC (Puce à mémoire Flash)
+Emplacement mSATA/M.2, Aucun
+Lecteur Optique, Aucun
+Lecteur de cartes, micro SD
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 5.0
+Technologie Intel vPro, Non
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Type d'activités, Internet
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Non
+Clavier RGB, Non
+Pavé numérique, Non
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xJack 3,5mm Femelle Stéréo,  2xUSB-3.0,  2xUSB-3.0Type C"
+Couleur, Gris
+Profondeur, 199mm
+Largeur, 292mm
+Epaisseur Avant, 19.5mm
+Epaisseur Arrière, 20.1mm
+Poids, 1.2kg
+Gamme, ASUS Chromebook
+Ultrabook, Non
+Hybride / Convertible, Non
+Autonomie, 14Heure(s)
+Nombre de cellules, 3
+Batterie amovible, Non
+Chargeur secteur USB-C, Oui
+Garantie commerciale, 2ans constructeur
+Garantie légale, Voir les modalités

@@ -1,0 +1,40 @@
+,0
+Système d'exploitation, Sans OS
+Système d'exploitation fourni, Non
+Plateforme (Proc.), AMD Zen 2
+Type de processeur, AMD Ryzen 7 3700X (8coeurs / 16threads - 3.60GHz - Turbo 4.40GHz - Cache 32Mo - TDP-65W)
+Processeur, AMD Ryzen 7
+Fréquence CPU, 3.6GHz
+Modèle refroidissement CPU, Corsair H75V2
+Chipset, AMD X570
+Modèle de la carte mère, ASUS TUF GAMING X570-PLUS (WI-FI)
+Taille de la mémoire, 16Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 3200MHz
+Marque de la RAM, G.Skill
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-500Go + HDD-1To
+Disque dur, 1To
+Modèle du SSD, Kingston A2000NVMe
+Modèle du disque dur, Seagate Barracuda
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E NVMe
+Lecteur Optique, Aucun
+Chipset graphique, NVIDIA GeForce RTX-2070SUPER
+Taille mémoire vidéo, 8Go
+Référence de la carte graphique, MSI GeForce RTX-2070SUPER Ventus OC
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Non
+Nombre de ports/Contrôleur Ethernet, Intégré
+Norme(s) réseau sans-fil, Wi-Fi AC
+Connecteurs panneau avant," 2xJack 3,5mm Femelle Stéréo"
+Connecteurs panneau arrière," 5xJack 3,5mm Femelle Stéréo,  1xAudio numérique S/PDIF Optique,  4xUSB-3.0,  2xUSB-3.1,  1xUSB-3.1Type C,  3xDisplayPort Femelle"
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Modèle du boitier, Fractal Design Meshify C TG
+Puissance, 750W
+Modèle de l'alimentation, Antec HCG Gold
+Monté, Oui
+Gamme, Performance
+Garanties légales, Voir les modalités

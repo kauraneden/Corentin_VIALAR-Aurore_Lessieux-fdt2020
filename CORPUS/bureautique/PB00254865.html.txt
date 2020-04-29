@@ -1,0 +1,44 @@
+,0
+Désignation, MSI Pro 16T-7M-030XEU
+Marque, MSIMSI
+Modèle, PRO-16T-7M-030XEU
+Système d'exploitation, Sans OS
+Système d'exploitation fourni, Non
+Plateforme (Proc.), Intel Kaby Lake
+Type de processeur, Intel Celeron 3865U (Dual-Core 1.8GHz - Cache 2Mo)
+Processeur, Intel Celeron
+Fréquence CPU, 1.8GHz
+Taille de la mémoire, 4Go
+Type de mémoire, DDR4
+Capacité maximale de RAM par slot, 8Go
+Capacité maximale de RAM, 8Go
+Configuration disque(s), SSD-128Go
+Disque dur, SSD-128Go
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, Serial ATA
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, Intel HD Graphics 610
+Type de multi-GPU, Aucun
+Type d'écran, LED tactile
+Taille de l'écran, 15.6pouces
+Résolution Max, 1366x768pixels
+VR Ready (réalité virtuelle), Non
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, Intégré
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil," Wi-Fi AC,  Bluetooth 4.2"
+Connecteurs panneau avant," Memory Stick,  SD (Secure Digital),  Multimedia Card,  2xUSB-3.0"
+Connecteurs panneau arrière," 1xMicro (Jack3.5mm Femelle),  2xSérie (RS-232),  1xCasque (Jack 3.5mm Femelle),  2xUSB-2.0,  1xPort Parallèle,  1xVGA (D-sub 15Femelle),  1xRJ45Femelle,  2xUSB-3.0"
+Clavier et souris fournis, Oui
+Format de PC, Tout en un
+Largeur, 399.5mm
+Hauteur, 313.9mm
+Profondeur, 69.2mm
+Poids, 5.6kg
+Puissance, 65W
+Monté, Oui
+Usage, Professionnel
+Technologie Intel vPro, Non
+Garantie légale, Voir les modalités

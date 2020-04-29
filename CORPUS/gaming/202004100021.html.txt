@@ -1,0 +1,38 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), AMD Zen
+Type de processeur, AMD Ryzen 5 2600X (6-Core 3.6GHz / 4.2GHz Turbo - Cache 16Mo - TDP-95W)
+Processeur, AMD Ryzen 5
+Fréquence CPU, 3.6GHz
+Modèle refroidissement CPU, Cooler Master Hyper 212RGB Black Edition
+Chipset, AMD B450
+Modèle de la carte mère, Gigabyte B450M DS3H
+Taille de la mémoire, 16Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 3000MHz
+Marque de la RAM, Corsair
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-500Go
+Disque dur, SSD-500Go
+Modèle du SSD, WD Blue 3D
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - SATA-6Gb/s
+Lecteur de disquettes, Non
+Chipset graphique, 1xNVIDIA GeForce GTX-1660Ti
+Taille mémoire vidéo, 6Go
+Référence de la carte graphique, Gigabyte GeForce GTX-1660Ti OC
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Non
+Nombre de ports/Contrôleur Ethernet, Realtek RTL8111G
+Norme(s) réseau, 10/100/1000Mbps
+Connecteurs panneau arrière," 3xJack 3,5mm Femelle Stéréo,  4xUSB-2.0,  4xUSB-3.0,  3xDisplayPort Femelle"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Modèle du boitier, Antec DP501
+Puissance, 450W
+Modèle de l'alimentation, Corsair CX
+Monté, Oui
+Garanties légales, Voir les modalités

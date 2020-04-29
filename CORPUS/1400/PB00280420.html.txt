@@ -1,0 +1,44 @@
+,0
+Désignation, Corsair One i164
+Marque, CorsairCorsair
+Modèle, CS-9020007-EU
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i9-9900K (8-Core / 16Threads - 3.6GHz / 5.0GHz Turbo - Cache 16Mo - TDP-95W)
+Processeur, Intel Core i9
+Fréquence CPU, 3.6GHz
+Chipset, Intel Z370Express
+Taille de la mémoire, 32Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 32Go
+Configuration disque(s), SSD-960Go + HDD-2To
+Disque dur, SSD-960Go
+Disque secondaire, HDD-2To
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E NVMe
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA GeForce RTX-2080Ti
+Taille mémoire vidéo, 11Go
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, 1xIntégré
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil," Wi-Fi AC,  Bluetooth 4.2"
+Connecteurs panneau avant," 1xHDMI Femelle,  1xJack 3,5mm Femelle Stéréo,  2xUSB-3.0"
+Connecteurs panneau arrière," 1xAudio numérique S/PDIF Optique,  2xUSB-2.0,  2xSMA Femelle,  1xMiniDin 6Femelle (PS/2),  1xRJ45Femelle,  5xJack 3,5mm Femelle Stéréo,  2xUSB-3.0,  3xDisplayPort Femelle,  1xUSB-3.1,  1xUSB-3.1Type C Femelle"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Format du boitier, Mini Tour
+Largeur, 200mm
+Hauteur, 380mm
+Profondeur, 176mm
+Poids, 7.4kg
+Puissance, 600W
+Monté, Oui
+Technologie Intel vPro, Non
+Garantie légale, Voir les modalités

@@ -1,0 +1,36 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), AMD Zen 2
+Type de processeur, AMD Ryzen 5 3600 (6coeurs / 12threads - 3.60Ghz - Turbo 4.20Ghz - Cache 32Mo - TDP-65W)
+Processeur, AMD Ryzen 5
+Fréquence CPU, 3.6GHz
+Modèle refroidissement CPU, AMD Wraith Stealth Cooler
+Chipset, AMD B450
+Modèle de la carte mère, Gigabyte B450M DS3H
+Taille de la mémoire, 16Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 3600MHz
+Marque de la RAM, G.Skill
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-1To
+Modèle du SSD, Samsung 860EVO
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, Serial ATA-6Gb/s (SATA Revision 3)
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA GeForce GTX-1660SUPER
+Taille mémoire vidéo, 6Go
+Référence de la carte graphique, MSI GeForce GTX-1660SUPER GAMING X
+Nombre de ports/Contrôleur Ethernet, 1xIntégré
+Connecteurs panneau avant," 2xJack 3,5mm Femelle Stéréo,  1xUSB-2.0"
+Connecteurs panneau arrière," 3xJack 3,5mm Femelle Stéréo,  4xUSB-2.0,  4xUSB-3.0,  3xDisplayPort Femelle"
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Modèle du boitier, Corsair Carbide SPEC-05
+Puissance, 550W
+Modèle de l'alimentation, Corsair CXM
+Monté, Oui
+Gamme, Canard PC
+Garanties légales, Voir les modalités

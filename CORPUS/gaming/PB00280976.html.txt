@@ -1,0 +1,45 @@
+,0
+Désignation, ASUS ROG STRIxGL10CS-FR195T
+Marque, ASUSASUS
+Modèle, 90PD02S1-M11500
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i7-9700K (Octo-Core 3.6GHz / 4.9GHz Turbo - 8Threads - Cache 12Mo)
+Processeur, Intel Core i7
+Fréquence CPU, 3.6GHz
+Chipset, Intel B360Express
+Taille de la mémoire, 8Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 32Go
+Configuration disque(s), SSD-1To
+Disque dur, SSD-1To
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E NVMe
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA GeForce GTX-1660
+Taille mémoire vidéo, 6Go
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, Intégré
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil," Bluetooth 4.1,  Wi-Fi AC"
+Connecteurs panneau avant," 1xCasque (Jack 3.5mm Femelle),  2xUSB-3.0"
+Connecteurs panneau arrière," 1xHDMI Femelle,  1xDVI Femelle,  2xUSB-2.0,  1xRJ45Femelle,  3xJack 3,5mm Femelle Stéréo,  2xUSB-3.0,  1xDisplayPort Femelle"
+Clavier et souris fournis, Oui
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Largeur, 180mm
+Hauteur, 428mm
+Profondeur, 430mm
+Poids, 8kg
+Puissance, 500W
+Monté, Oui
+Technologie Intel vPro, Non
+Garantie commerciale, 2ans constructeur
+Garantie légale, Voir les modalités

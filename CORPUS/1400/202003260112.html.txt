@@ -1,0 +1,68 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Core i9
+Plateforme (Proc.), Intel Comet Lake
+Type de processeur," Intel Core i9-10980HK (Octo-Core 2.4GHz / 5,3GHz Turbo - 16Threads - Cache 16Mo)"
+Fréquence CPU, 2.4GHz
+Nombre de core, 6
+Chipset, Mobile Intel HM470Express
+Taille de la mémoire, 32Go
+Nombre de barrettes, 2
+Nombre de slots mémoire disponibles, 0
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Taille de mémoire Max, 64Go
+Chipset graphique, NVIDIA GeForce RTX-2080SUPER
+Taille mémoire vidéo, 8Go
+Type mémoire vidéo, GDDR6
+Ecran tactile, Non
+Type de Dalle, Dalle IPS
+Type d'écran, LED
+Taille de l'écran, 17.3pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Oui
+Taux de rafraîchissement, 240Hz
+Configuration disque(s), SSD-1To
+Disque dur, SSD-1To
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur, M.2 - PCI-E-3.0 4x
+Nombre de disques, 1
+Nombre de disques max, 3
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique, Aucun
+Lecteur de cartes," SD (Secure Digital),  SDHC"
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi 6AX
+Technologie Bluetooth, Bluetooth 5.0
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Oui
+Clavier RGB, Oui
+Pavé numérique, Oui
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xCasque (Jack 3.5mm Femelle),  1xMicro (Jack3.5mm Femelle),  1xRJ45Femelle,  2xUSB-3.0,  1xUSB-3.1,  1xUSB-3.1Type C Femelle,  1xMini DisplayPort"
+Couleur, Noir
+Profondeur, 268.5mm
+Largeur, 397mm
+Epaisseur, 27.5mm
+Poids, 2.6kg
+Ultrabook, Non
+Hybride / Convertible, Non
+Nombre de cellules, 6
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garanties légales, Voir les modalités

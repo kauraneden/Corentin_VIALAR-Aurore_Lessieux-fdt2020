@@ -1,0 +1,42 @@
+,0
+Désignation, HP ProDesk 400G6Micro (7PH79EA)
+Marque, HPHP
+Modèle, 7PH79EA#ABF
+Système d'exploitation, Windows 10Professionnel 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i5-9500 (Hexa-Core 3GHz / 4.4GHz Turbo - 6Threads - Cache 9Mo)
+Processeur, Intel Core i5
+Fréquence CPU, 3GHz
+Chipset, Intel B360Express
+Taille de la mémoire, 8Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Capacité maximale de RAM par slot, 32Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-512Go
+Disque dur, SSD-512Go
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E NVMe
+Lecteur Optique, Graveur DVD Double Couche
+Lecteur de disquettes, Non
+Chipset graphique, Intel UHD Graphics 630
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Non
+Sans-fil, Non
+Nombre de ports/Contrôleur Ethernet, 1xIntégré
+Norme(s) réseau, 10/100/1000Mbps
+Connecteurs panneau avant," 1xJack 3,5mm Femelle Stéréo,  2xUSB-3.0"
+Connecteurs panneau arrière," 1xCasque (Jack 3.5mm Femelle),  1xLine IN (Jack 3.5mm Femelle),  1xRJ45Femelle,  4xUSB-2.0,  2xUSB-3.0,  1xDisplayPort Femelle,  1xVGA (D-sub 15Femelle)"
+Clavier et souris fournis, Oui
+Format de PC, Tour
+Format du boitier, Mini Tour
+Largeur, 170mm
+Hauteur, 274mm
+Profondeur, 338mm
+Poids, 5.47kg
+Puissance, 180W
+Monté, Oui
+Usage, Professionnel
+Garantie légale, Voir les modalités

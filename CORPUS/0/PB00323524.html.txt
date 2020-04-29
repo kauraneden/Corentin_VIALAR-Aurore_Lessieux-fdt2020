@@ -1,0 +1,73 @@
+,0
+Désignation, LDLC Aurore NL5-8-S4
+Marque, LDLCLDLC
+Modèle, NL5-8-S4
+Système d'exploitation, Sans OS
+Famille OS, Sans OS
+Système d'exploitation fourni, Non
+Marque processeur, Intel
+Processeur, Intel Celeron
+Plateforme (Proc.), Intel Comet Lake
+Type de processeur, Intel Pentium Silver N5000 (Quad-Core 1.1GHz / 2.7GHz Turbo - Cache 4Mo - TDP-6W)
+Fréquence CPU, 1.1GHz
+Nombre de core, 4
+Taille de la mémoire, 8Go
+Nombre de barrettes, 1
+Nombre de slots mémoire disponibles, 1
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Taille de mémoire Max, 8Go
+Chipset graphique, Intel UHD Graphics 605
+Max-Q (Design GPU), Non
+Ecran tactile, Non
+Type de Dalle, Dalle TN
+Type d'écran, LED
+Taille de l'écran, 15.6pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-480Go
+Disque dur, SSD-480Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur, M.2 - SATA-6Gb/s
+Nombre de disques, 1
+Nombre de disques max, 1
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique, Aucun
+Lecteur de cartes," micro SD,  micro SDHC,  micro SDXC"
+Norme(s) réseau, Wi-Fi AC
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 5.0
+Technologie Intel vPro, Non
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Non
+Clavier RGB, Non
+Pavé numérique, Oui
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xJack 3,5mm Femelle Stéréo,  2xUSB-2.0,  1xUSB-3.0,  1xUSB-3.0Type C,  1xHDMI Femelle"
+Couleur, Noir
+Profondeur, 239.3mm
+Largeur, 360.4mm
+Epaisseur, 18.5mm
+Poids, 1.59kg
+Gamme, LDLC Aurore
+Ultrabook, Non
+Hybride / Convertible, Non
+Autonomie, 10Heure(s)
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2ans constructeurGarantie limitée
+
+Les PC Portables de marque LDLC bénéficient d'une garantie commerciale de 2ans. Cette garantie ne s'applique pas aux batteries contenues dans ces équipements. Les batteries contenues dans les PC Portables LDLC bénéficient quant à elles d'une garantie commerciale de 6mois.
+Garantie légale, Voir les modalités

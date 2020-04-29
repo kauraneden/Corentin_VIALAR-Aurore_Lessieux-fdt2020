@@ -1,0 +1,60 @@
+,0
+Désignation, Ordissimo Laura 2
+Marque, OrdissimoOrdissimo
+Modèle, ART0384
+Système d'exploitation, Ordissimo
+Famille OS, Ordissimo
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Pentium
+Plateforme (Proc.), Intel Gemini Lake
+Type de processeur, Intel Pentium N5000 (Quad-Core 1.1GHz / 2.7GHz Turbo - Cache 4Mo)
+Fréquence CPU, 1.1GHz
+Nombre de core, 4
+Taille de la mémoire, 4Go
+Type de mémoire, DDR4
+Chipset graphique, Intel UHD Graphics 605
+Max-Q (Design GPU), Non
+Ecran tactile, Non
+Type de Dalle, Dalle IPS
+Type d'écran, LED
+Taille de l'écran, 17.3pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-256Go
+Disque dur, SSD-256Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Nombre de disques, 1
+Nombre de disques max, 1
+Lecteur Optique, Aucun
+Lecteur de cartes, SD (Secure Digital)
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Intel vPro, Non
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Non
+Clavier RGB, Non
+Pavé numérique, Oui
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xJack 3,5mm Femelle Stéréo,  1xUSB-2.0,  2xUSB-3.0,  1xUSB-3.0Type C,  1xHDMI Femelle"
+Couleur, Argent
+Profondeur, 264mm
+Largeur, 398mm
+Epaisseur, 18mm
+Poids, 2.4kg
+Ultrabook, Non
+Hybride / Convertible, Non
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2ans constructeur
+Garantie légale, Voir les modalités

@@ -1,0 +1,40 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake
+Type de processeur, Intel Celeron G4920 (2-Core 3.2GHz - Cache 2Mo - TDP-54W)
+Processeur, Intel Celeron
+Fréquence CPU, 3.2GHz
+Chipset, Intel H310Express
+Modèle de la carte mère, ASUS PRIME H310M-D R2.0
+Taille de la mémoire, 4Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Marque de la RAM, G.Skill
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 32Go
+Configuration disque(s), SSD-250Go
+Disque dur, SSD-250Go
+Modèle du SSD, Kingston A2000
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E-2.0 4x
+Lecteur de disquettes, Non
+Chipset graphique, Intel HD Graphics 610
+VR Ready (réalité virtuelle), Non
+Sans-fil, Non
+Nombre de ports/Contrôleur Ethernet, Intel I219-V
+Norme(s) réseau, 10/100/1000Mbps
+Connecteurs panneau avant," Casque (Jack 3.5mm Femelle),  Micro (Jack3.5mm Femelle),  2xUSB-2.0Type A Femelle"
+Connecteurs panneau arrière," 3xJack 3,5mm Femelle Stéréo,  1xMiniDin 6Femelle (PS/2),  1xGigabit Ethernet - RJ45Femelle,  4xUSB-2.0Type A Femelle,  2xUSB-3.0Type A Femelle,  1xDVI Femelle,  1xHDMI Femelle"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Largeur, 200mm
+Hauteur, 430mm
+Profondeur, 377mm
+Poids, 6.69kg
+Puissance, 500W
+Modèle de l'alimentation, Cooler Master Masterwatt lite 500
+Monté, Oui
+Usage, Familial
+Garanties légales, Voir les modalités

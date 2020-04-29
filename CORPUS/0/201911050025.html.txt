@@ -1,0 +1,43 @@
+,0
+Système d'exploitation, Sans OS
+Système d'exploitation fourni, Non
+Plateforme (Proc.), AMD Zen
+Type de processeur, AMD Ryzen 3 2200G Wraith Stealth Edition (Quad-Core 3.5GHz / Turbo 3.7GHz - Cache 4Mo - TDP-65W)
+Processeur, AMD Ryzen 3
+Fréquence CPU, 3.5GHz
+Modèle refroidissement CPU, Ventirad d'origine
+Chipset, AMD A320
+Modèle de la carte mère, Asus PRIME A320M-K
+Taille de la mémoire, 8Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Marque de la RAM, Crucial
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 32Go
+Configuration disque(s), HDD-1To
+Disque dur, 1To
+Disque secondaire, Sans disque secondaire
+Modèle du disque dur, Seagate BarraCuda
+Type de Disque Système, HDD (Hard Disk Drive)
+Interface avec l'ordinateur disque dur système, Serial ATA-6Gb/s (SATA Revision 3)
+Lecteur Optique, Graveur DVD
+Lecteur de disquettes, Non
+Chipset graphique, AMD Radeon Vega 8Graphics
+VR Ready (réalité virtuelle), Non
+Sans-fil, Non
+Nombre de ports/Contrôleur Ethernet, Realtek RTL8111H
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi AC-1200Mbps (IEEE-802.11ac)
+Connecteurs panneau avant," 1xMicro (Jack3.5mm Femelle),  1xCasque (Jack 3.5mm Femelle),  1xUSB-2.0"
+Connecteurs panneau arrière," 1xHDMI Femelle,  2xUSB-2.0,  1xVGA (D-sub 15Femelle),  1xRJ45Femelle,  3xJack 3,5mm Femelle Stéréo,  2xPS/2"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Modèle du boitier, ANTEC VSK-3000B-U3/U2
+Largeur, 173mm
+Hauteur, 365mm
+Profondeur, 393mm
+Puissance, 400W
+Modèle de l'alimentation, BE QUIET! SYSTEM POWER-9
+Monté, Oui
+Garanties légales, Voir les modalités

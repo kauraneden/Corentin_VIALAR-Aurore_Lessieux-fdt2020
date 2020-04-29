@@ -1,0 +1,46 @@
+,0
+Système d'exploitation, Windows 10Professionnel 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), AMD Zen
+Type de processeur, AMD Ryzen 7 2700 (Octo-Core 3.2GHz / 4.1GHz Turbo - Cache 16Mo - TDP-65W)
+Processeur, AMD Ryzen 7
+Fréquence CPU, 3.2GHz
+Modèle refroidissement CPU, Be Quiet Dark Rock 4
+Chipset, AMD B450
+Modèle de la carte mère, ASUS PRIME B450M-A
+Taille de la mémoire, 32Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 3000MHz
+Marque de la RAM, G.Skill Aegis
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-480Go + HDD-2To
+Disque dur, SSD-480Go
+Disque secondaire, HDD-2To
+Modèle du SSD, Corsair MP510
+Modèle du disque dur, Seagate Barracuda
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E-3.0 4x
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA GeForce RTX-2080
+Taille mémoire vidéo, 8Go
+Référence de la carte graphique, ASUS TURBO-RTX2080-8G
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Non
+Nombre de ports/Contrôleur Ethernet, 1xRealtek RTL8111H
+Norme(s) réseau, 10/100/1000Mbps
+Connecteurs panneau avant," Micro (Jack3.5mm Femelle),  Casque (Jack 3.5mm Femelle),  1xHDMI Femelle"
+Connecteurs panneau arrière," 1xHDMI Femelle,  1xGigabit Ethernet - RJ45Femelle,  3xJack 3,5mm Femelle Stéréo,  2xPS/2,  4xUSB-3.0Type A Femelle,  2xDisplayPort Femelle,  2xUSB-3.1Type A Femelle"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Modèle du boitier, Antec P101Silent
+Largeur, 232mm
+Hauteur, 506mm
+Profondeur, 527mm
+Poids, 20.2kg
+Puissance, 650W
+Modèle de l'alimentation, SEASONIC CORE GOLD GM-650 80+ GOLD
+Monté, Oui
+Usage, Familial
+Garanties légales, Voir les modalités

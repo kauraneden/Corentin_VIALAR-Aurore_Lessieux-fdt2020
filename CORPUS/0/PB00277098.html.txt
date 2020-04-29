@@ -1,0 +1,74 @@
+,0
+Désignation, Lenovo V145-15AST (81MT001TFR)
+Marque, LenovoLenovo
+Modèle, 81MT001TFR
+Système d'exploitation, Sans OS
+Famille OS, Sans OS
+Langue de l'OS, N/A
+Système d'exploitation fourni, Non
+Marque processeur, AMD
+Processeur, AMD A4Dual-Core APU
+Plateforme (Proc.), AMD Excavator
+Type de processeur, AMD A4-9125 (Dual Core 2.3GHz / 2.6GHz Turbo - Cache 1Mo)
+Fréquence CPU, 2.3GHz
+Nombre de core, 2
+Taille de la mémoire, 4Go
+Nombre de barrettes, 1
+Nombre de slots mémoire disponibles, 0
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 1866MHz
+Taille de mémoire Max, 8Go
+Chipset graphique, AMD Radeon R3
+Max-Q (Design GPU), Non
+Ecran tactile, Non
+Type de Dalle, Dalle TN
+Type d'écran, LED
+Taille de l'écran, 15.6pouces
+Résolution Max, 1366x768pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), HDD-1To
+Disque dur, 1To
+Disque secondaire, Sans disque secondaire
+Type de Disque, HDD (Hard Disk Drive)
+Vitesse de rotation, 5400RPM
+Interface du disque dur, Serial ATA-6Gb/s (SATA Revision 3)
+Nombre de disques, 1
+Nombre de disques max, 1
+Emplacement mSATA/M.2, Aucun
+Lecteur Optique," Graveur CD,  Graveur DVD,  Lecteur CD,  Lecteur DVD"
+Lecteur de cartes," SD (Secure Digital),  Multimedia Card,  SDHC,  SDXC"
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 4.1
+Technologie Intel vPro, Non
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Non
+Clavier RGB, Non
+Pavé numérique, Oui
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," Jack 3,5mm Femelle Stéréo,  1xRJ45,  2xUSB-3.0,  1xHDMI Femelle"
+Couleur, Noir
+Profondeur, 253.4mm
+Largeur, 375.6mm
+Epaisseur, 22.7mm
+Poids, 2.1kg
+Gamme, Lenovo série V
+Ultrabook, Non
+Hybride / Convertible, Non
+Autonomie, 5Heure(s)
+Nombre de cellules, 2
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 1an constructeur
+Garantie légale, Voir les modalités

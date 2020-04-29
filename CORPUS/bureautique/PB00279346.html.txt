@@ -1,0 +1,60 @@
+,0
+Désignation, Ordissimo Lucie 2
+Marque, OrdissimoOrdissimo
+Modèle, ART0375
+Système d'exploitation, Ordissimo
+Famille OS, Ordissimo
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Pentium
+Plateforme (Proc.), Intel Apollo Lake
+Type de processeur, Intel Pentium N4200 (Quad-Core 1.1GHz - Cache 2Mo)
+Fréquence CPU, 1.1GHz
+Nombre de core, 4
+Taille de la mémoire, 4Go
+Type de mémoire, DDR4
+Chipset graphique, Intel HD Graphics 505
+Max-Q (Design GPU), Non
+Ecran tactile, Non
+Type d'écran, LED
+Taille de l'écran, 15.6pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-128Go
+Disque dur, SSD-128Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Nombre de disques, 1
+Nombre de disques max, 1
+Emplacement mSATA/M.2, Aucun
+Lecteur Optique, Aucun
+Lecteur de cartes," micro SD,  micro SDHC,  micro SDXC"
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Intel vPro, Non
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Oui
+Clavier RGB, Non
+Pavé numérique, Oui
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 2xUSB-3.0,  1xHDMI Femelle"
+Couleur, Argent
+Profondeur, 240mm
+Largeur, 367mm
+Epaisseur, 13mm
+Poids, 1.7kg
+Ultrabook, Non
+Hybride / Convertible, Non
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2ans constructeur
+Garantie légale, Voir les modalités

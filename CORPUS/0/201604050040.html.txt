@@ -1,0 +1,33 @@
+,0
+Système d'exploitation, Sans OS
+Système d'exploitation fourni, Non
+Plateforme (Proc.), Intel Cherry Trail
+Type de processeur, Intel Atom x5Z8300 (Quad-Core 1.44GHz - Turbo 1.84Ghz - Cache 2Mo)
+Processeur, Intel Atom
+Fréquence CPU, 1.44GHz
+Taille de la mémoire, 2Go
+Type de mémoire, DDR3L (1.35V)
+Fréquence(s) Mémoire, DDR3 1333MHz
+Capacité maximale de RAM par slot, 2Go
+Capacité maximale de RAM, 2Go
+Configuration disque(s), eMMC-32Go
+Disque dur, eMMC-32Go
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, eMMC (Puce à mémoire Flash)
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, Intel HD Graphics
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Non
+Sans-fil, Oui
+Norme(s) réseau, Bluetooth 4.0
+Norme(s) réseau sans-fil, Bluetooth 4.0
+Connecteurs panneau arrière," 1xUSB-2.0,  1xUSB-3.0,  micro SD"
+Clavier et souris fournis, Non
+Format de PC, PC Stick
+Largeur, 38mm
+Hauteur, 12mm
+Monté, Oui
+Usage, Familial
+Technologie Intel vPro, Non
+Garanties légales, Voir les modalités

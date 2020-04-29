@@ -1,0 +1,42 @@
+,0
+Désignation, Corsair One Elite 1080Ti - 32Go
+Marque, CorsairCorsair
+Modèle, CS-9000014-EU
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake
+Type de processeur, Intel Core i7-8700K (6-Core 3.7GHz / 4.7GHz Turbo - Cache 12Mo)
+Processeur, Intel Core i7
+Fréquence CPU, 3.7GHz
+Chipset, Intel Z370Express
+Taille de la mémoire, 32Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 32Go
+Configuration disque(s), SSD-480Go + HDD-2To
+Disque dur, SSD-480Go
+Disque secondaire, HDD-2To
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - SATA-6Gb/s
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA GeForce GTX-1080Ti
+Taille mémoire vidéo, 11Go
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, 1xIntégré
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil," Bluetooth 4.2,  Wi-Fi AC"
+Connecteurs panneau avant," 1xHDMI-2.0Femelle,  1xUSB-3.1"
+Connecteurs panneau arrière," 2xSMA Femelle,  5xJack 3,5mm Femelle Stéréo,  1xAudio numérique S/PDIF Optique,  1xRJ45Femelle,  2xUSB-2.0,  2xUSB-3.0,  1xUSB-3.1,  1xUSB-3.1Type C Femelle,  2xDisplayPort Femelle,  1xHDMI Femelle"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Largeur, 200mm
+Hauteur, 380mm
+Profondeur, 176mm
+Poids, 7.4kg
+Puissance, 500W
+Monté, Oui
+Garantie légale, Voir les modalités

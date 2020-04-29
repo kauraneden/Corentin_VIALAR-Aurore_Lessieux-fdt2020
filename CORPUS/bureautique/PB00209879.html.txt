@@ -1,0 +1,40 @@
+,0
+Désignation, LDLC PC Chopin-P-4-H5
+Marque, LDLCLDLC
+Modèle, PC CHOPIN-P-4-H5
+Système d'exploitation, Sans OS
+Système d'exploitation fourni, Non
+Plateforme (Proc.), Intel Coffee Lake
+Type de processeur, Intel Pentium G5400 (Dual-Core 3.7GHz - Cache 4Mo - TDP-54W)
+Processeur, Intel Pentium
+Fréquence CPU, 3.7GHz
+Chipset, Intel H310Express
+Taille de la mémoire, 4Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2133MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 32Go
+Configuration disque(s), HDD-500Go
+Disque dur, 500Go
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, HDD (Hard Disk Drive)
+Interface avec l'ordinateur disque dur système, Serial ATA-6Gb/s (SATA Revision 3)
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, Intel UHD Graphics 610
+VR Ready (réalité virtuelle), Non
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, Intel I219-V
+Norme(s) réseau," Bluetooth 4.0,  10/100/1000Mbps,  Wi-Fi AC"
+Norme(s) réseau sans-fil, Wi-Fi AC
+Connecteurs panneau avant," 1xCasque (Jack 3.5mm Femelle),  1xMicro (Jack3.5mm Femelle),  2xUSB"
+Connecteurs panneau arrière," 3xJack 3,5mm Femelle Stéréo,  1xMiniDin 6Femelle (PS/2),  1xRJ45Femelle,  4xUSB-2.0,  2xUSB-3.0,  1xDVI Femelle,  1xHDMI Femelle"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Format du boitier, Mini PC
+Puissance, 300W
+Monté, Non
+Gamme de PC LDLC, Publik
+Usage, Professionnel
+Technologie Intel vPro, Non
+Garantie légale, Voir les modalités

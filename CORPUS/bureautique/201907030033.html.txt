@@ -1,0 +1,66 @@
+,0
+Système d'exploitation, Windows 10Professionnel 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Core i3
+Plateforme (Proc.), Intel Whiskey Lake
+Type de processeur, Intel Core i3-8145U (Dual-Core 2.1GHz / 3.9GHz Turbo - Cache 4Mo)
+Fréquence CPU, 2.1GHz
+Nombre de core, 2
+Taille de la mémoire, 4Go
+Nombre de barrettes, 1
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Chipset graphique, Intel UHD Graphics 620
+Ecran tactile, Non
+Type de Dalle, Dalle IPS
+Type d'écran, LED
+Taille de l'écran, 15.6pouces
+Résolution Max, 1366x768pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), HDD-500Go
+Disque dur, 500Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, HDD (Hard Disk Drive)
+Vitesse de rotation, 7200RPM
+Interface du disque dur, Serial ATA
+Nombre de disques, 1
+Lecteur Optique, Aucun
+Lecteur de cartes," SD (Secure Digital),  SDHC"
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil," Wi-Fi A (IEEE-802.11a),  Wi-Fi AC,  Wi-Fi B (IEEE-802.11b),  Wi-Fi G (IEEE-802.11g)"
+Technologie Bluetooth, Bluetooth 5.0
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Non
+Clavier RGB, Non
+Pavé numérique, Oui
+Lecteur biométrique, Oui
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xJack 3,5mm Femelle Stéréo,  1xRJ45,  1xUSB-2.0,  2xUSB-3.0,  1xUSB-3.0Type C"
+Couleur, Argent
+Profondeur, 256.9mm
+Largeur, 346.9mm
+Epaisseur, 19mm
+Poids, 2kg
+Gamme, HP ProBook
+Ultrabook, Non
+Hybride / Convertible, Non
+Autonomie, 14Heure(s)
+Capacité de la batterie, 45Wh
+Nombre de cellules, 3
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 1année constructeur
+Garanties légales, Voir les modalités

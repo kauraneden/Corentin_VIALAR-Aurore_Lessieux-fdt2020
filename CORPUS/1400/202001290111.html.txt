@@ -1,0 +1,41 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i7-9700F (Octo-Core 3.0GHz / 4.7GHz Turbo - Cache 12Mo)
+Processeur, Intel Core i7
+Fréquence CPU, 3GHz
+Chipset, Intel B360Express
+Taille de la mémoire, 16Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 32Go
+Configuration disque(s), SSD-512Go + HDD-2To
+Disque dur, SSD-512Go
+Disque secondaire, HDD-2To
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA GeForce RTX-2070SUPER
+Taille mémoire vidéo, 8Go
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, 1xRealtek RTL8111H-C
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi AC
+Connecteurs panneau avant," 1xCasque (Jack 3.5mm Femelle),  1xMicro (Jack3.5mm Femelle),  1xUSB-2.0,  1xUSB-3.0"
+Connecteurs panneau arrière," 5xJack 3,5mm Femelle Stéréo,  1xMiniDin 6Femelle (PS/2),  1xGigabit Ethernet - RJ45Femelle,  2xUSB-2.0,  2xUSB-3.0,  2xUSB-3.1,  3xDisplayPort Femelle"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Format du boitier, Mini Tour
+Largeur, 129.74mm
+Hauteur, 382.73mm
+Profondeur, 396.39mm
+Poids, 6.55kg
+Puissance, 450W
+Monté, Oui
+Technologie Intel vPro, Non
+Garanties légales, Voir les modalités

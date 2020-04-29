@@ -1,0 +1,76 @@
+,0
+Désignation, LDLC Bellone RT75-I7-16-S2S20
+Marque, LDLCLDLC
+Modèle, RT75-I7-16-S2S20
+Système d'exploitation, Sans OS
+Famille OS, Sans OS
+Système d'exploitation fourni, Non
+Marque processeur, Intel
+Processeur, Intel Core i7
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i7-9700 (Octo-Core 3GHz / 4.7GHz Turbo - 8Threads - Cache 12Mo)
+Fréquence CPU, 3GHz
+Nombre de core, 6
+Taille de la mémoire, 16Go
+Nombre de barrettes, 1
+Nombre de slots mémoire disponibles, 1
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Taille de mémoire Max, 64Go
+Chipset graphique, NVIDIA GeForce RTX-2070
+Taille mémoire vidéo, 8Go
+Type mémoire vidéo, GDDR6
+Max-Q (Design GPU), Non
+Ecran tactile, Non
+Type de Dalle, Dalle TN
+Type d'écran, LED
+Taille de l'écran, 16.1pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Oui
+Taux de rafraîchissement, 144Hz
+Configuration disque(s), SSD-240Go + SSD-2To
+Disque dur, SSD-240Go
+Disque secondaire, SSD-2To
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur," M.2 - PCI-E NVMe,  Serial ATA-6Gb/s (SATA Revision 3)"
+Nombre de disques, 2
+Nombre de disques max, 2
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique, Aucun
+Lecteur de cartes," Multimedia Card,  RS MultiMedia Card,  mini SD,  SD (Secure Digital),  SDHC,  SDXC"
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 5.0
+Technologie Intel vPro, Non
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Oui
+Clavier RGB, Non
+Pavé numérique, Oui
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xPort pour clef Kensington,  1xJack 3,5mm Femelle Stéréo,  1xS/PDIF (Jack 3.5mm),  1xRJ45,  1xUSB-2.0,  1xUSB-3.0,  1xUSB-3.1,  1xUSB-3.1Type C,  2xMini DisplayPort,  1xHDMI Femelle"
+Couleur, Noir
+Profondeur, 267mm
+Largeur, 378mm
+Epaisseur, 30mm
+Poids, 2.7kg
+Gamme, LDLC Bellone
+Ultrabook, Non
+Hybride / Convertible, Non
+Autonomie, 7Heure(s)
+Nombre de cellules, 6
+Batterie amovible, Oui
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2ans constructeurGarantie limitée
+
+Les PC Portables de marque LDLC bénéficient d'une garantie commerciale de 2ans. Cette garantie ne s'applique pas aux batteries contenues dans ces équipements. Les batteries contenues dans les PC Portables LDLC bénéficient quant à elles d'une garantie commerciale de 6mois.
+Garantie légale, Voir les modalités

@@ -1,0 +1,67 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Core i7
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i7-9750H (Hexa-Core 2.6GHz / 4.5GHz Turbo - 12Threads - Cache 12Mo)
+Fréquence CPU, 2.6GHz
+Nombre de core, 6
+Chipset, Mobile Intel HM370Express
+Taille de la mémoire, 32Go
+Nombre de barrettes, 2
+Nombre de slots mémoire disponibles, 0
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Taille de mémoire Max, 32Go
+Chipset graphique, NVIDIA GeForce RTX-2070
+Taille mémoire vidéo, 8Go
+Type mémoire vidéo, GDDR6
+Ecran tactile, Non
+Type de Dalle, Dalle IPS
+Type d'écran, LED
+Taille de l'écran, 15.6pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Oui
+Taux de rafraîchissement, 240Hz
+Configuration disque(s), SSD-1To
+Disque dur, SSD-1To
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur, M.2 - PCI-E NVMe
+Nombre de disques, 1
+Nombre de disques max, 2
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique, Aucun
+Lecteur de cartes, Aucun
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 5.0
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Oui
+Clavier RGB, Oui
+Pavé numérique, Non
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xRJ45,  1xMicro (Jack3.5mm Femelle),  1xCasque (Jack 3.5mm Femelle),  1xMini DisplayPort,  3xUSB-3.0,  1xHDMI-2.0Femelle"
+Couleur, Noir
+Profondeur, 247.7mm
+Largeur, 357.7mm
+Epaisseur, 17.7mm
+Poids, 1.8kg
+Ultrabook, Non
+Hybride / Convertible, Non
+Nombre de cellules, 4
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2années constructeur
+Garanties légales, Voir les modalités

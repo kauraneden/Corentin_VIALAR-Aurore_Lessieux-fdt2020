@@ -1,0 +1,39 @@
+,0
+Système d'exploitation, Sans OS
+Système d'exploitation fourni, Non
+Plateforme (Proc.), Intel Coffee Lake
+Type de processeur," Intel Core i5-8259U (Quad-Core 2,3GHz / 3,8Ghz Turbo - 8Threads - Cache 6Mo)"
+Processeur, Intel Core i5
+Modèle refroidissement CPU, Ventirad d'origine
+Taille de la mémoire, 8Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Marque de la RAM, Crucial
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 32Go
+Configuration disque(s), SSD-500Go
+Disque dur, SSD-500Go
+Disque secondaire, Sans disque secondaire
+Modèle du SSD, Crucial P1
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, Intel Iris Plus Graphics 655
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Non
+Sans-fil, Oui
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Bluetooth 5.0
+Connecteurs panneau avant," 1xJack 3,5mm Femelle Stéréo,  2xUSB-3.0,  micro SD,  micro SDHC"
+Connecteurs panneau arrière," Gigabit Ethernet - RJ45Femelle,  2xUSB-3.0,  1xUSB-3.1Type C Femelle,  1xThunderbolt 3"
+Clavier et souris fournis, Non
+Format de PC, Mini PC
+Format du boitier, Mini PC
+Largeur, 112mm
+Hauteur, 36mm
+Profondeur, 117mm
+Puissance, 65W
+Monté, Oui
+Usage, de Salon
+Garanties légales, Voir les modalités

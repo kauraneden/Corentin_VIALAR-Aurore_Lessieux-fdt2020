@@ -1,0 +1,67 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, AMD
+Processeur, AMD Ryzen 7
+Plateforme (Proc.), AMD Zen 2
+Type de processeur, AMD Ryzen 7 3700U (Quad-Core 2.3GHz / 4GHz Turbo - Cache 6Mo)
+Fréquence CPU, 2.3GHz
+Nombre de core, 4
+Taille de la mémoire, 8Go
+Nombre de barrettes, 2
+Nombre de slots mémoire disponibles, 0
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Taille de mémoire Max, 12Go
+Chipset graphique, AMD Radeon RxVega 10Graphics
+Ecran tactile, Non
+Type de Dalle, Dalle TN
+Type d'écran, LED
+Taille de l'écran, 14pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-256Go
+Disque dur, SSD-256Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur, M.2 - PCI-E
+Nombre de disques, 1
+Nombre de disques max, 1
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique, Aucun
+Lecteur de cartes, micro SD
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 4.2
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Non
+Clavier RGB, Non
+Pavé numérique, Non
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xJack 3,5mm Femelle Stéréo,  1xUSB-2.0,  1xUSB-3.0,  1xUSB-3.0Type C"
+Couleur, Argent
+Profondeur, 212mm
+Largeur, 322mm
+Epaisseur, 19mm
+Poids, 1.5kg
+Gamme, ASUS Vivobook
+Ultrabook, Oui
+Hybride / Convertible, Non
+Capacité de la batterie, 37Wh
+Nombre de cellules, 2
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2années constructeur
+Garanties légales, Voir les modalités

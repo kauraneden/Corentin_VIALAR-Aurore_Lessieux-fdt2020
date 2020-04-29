@@ -1,0 +1,74 @@
+,0
+Désignation, LDLC Bellone ZY7-I7-32-H20S5-P10
+Marque, LDLCLDLC
+Modèle, ZY7-I7-32-H20S5-P10
+Système d'exploitation, Windows 10Professionnel 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Core i7
+Plateforme (Proc.), Intel Coffee Lake
+Type de processeur, Intel Core i7-8750H (Hexa-Core 2.2GHz / 4.1GHz Turbo - Cache 9Mo)
+Fréquence CPU, 2.2GHz
+Nombre de core, 6
+Chipset, Mobile Intel HM370Express
+Taille de la mémoire, 32Go
+Nombre de barrettes, 2
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Taille de mémoire Max, 32Go
+Chipset graphique, NVIDIA GeForce GTX-1070
+Taille mémoire vidéo, 8Go
+Type mémoire vidéo, GDDR5
+Ecran tactile, Non
+Type de Dalle, Dalle TN
+Type d'écran, LED
+Taille de l'écran, 17.3pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Oui
+Taux de rafraîchissement, 120Hz
+Configuration disque(s), SSD-480Go + HDD-2To
+Disque dur, SSD-480Go
+Disque secondaire, HDD-2To
+Type de Disque," HDD (Hard Disk Drive),  SSD (Solid State Drive)"
+Vitesse de rotation, 5400RPM
+Interface du disque dur," M.2 - SATA-6Gb/s,  Serial ATA-6Gb/s (SATA Revision 3)"
+Nombre de disques, 2
+Nombre de disques max, 3
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique, Aucun
+Lecteur de cartes," Multimedia Card,  RS MultiMedia Card,  mini SD,  SD (Secure Digital),  SDHC,  SDXC"
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 5.0
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, 2H.P + caisson de basses
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Oui
+Clavier RGB, Oui
+Pavé numérique, Oui
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xCasque (Jack 3.5mm Femelle),  1xMicro (Jack3.5mm Femelle),  1xS/PDIF (Jack 3.5mm),  1xRJ45,  2xUSB-3.0,  2xUSB-3.1,  1xUSB-3.1Type C Femelle,  2xMini DisplayPort,  1xHDMI Femelle"
+Couleur, Noir
+Profondeur, 287mm
+Largeur, 418.5mm
+Epaisseur, 24.9mm
+Poids, 3.2kg
+Ultrabook, Non
+Hybride / Convertible, Non
+Nombre de cellules, 4
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2ans constructeurGarantie limitée
+
+Les PC Portables de marque LDLC bénéficient d'une garantie commerciale de 2ans. Cette garantie ne s'applique pas aux batteries contenues dans ces équipements. Les batteries contenues dans les PC Portables LDLC bénéficient quant à elles d'une garantie commerciale de 6mois.
+Garantie légale, Voir les modalités

@@ -1,0 +1,37 @@
+,0
+Désignation, LDLC PC Coffee Macchiato RGB
+Marque, LDLCLDLC
+Modèle, PC COFFEE MACCHIATO RGB
+Système d'exploitation, Sans OS
+Système d'exploitation fourni, Non
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i7-9700KF (8-Core 3.6GHz / 4.9GHz Turbo - Cache 12Mo - TDP-95W)
+Processeur, Intel Core i7
+Fréquence CPU, 3.6GHz
+Chipset, Intel Z390Express
+Taille de la mémoire, 16Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 3000MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-240Go + HDD-2To
+Disque dur, SSD-240Go
+Disque secondaire, HDD-2To
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E NVMe
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA GeForce RTX-2080
+Taille mémoire vidéo, 8Go
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Non
+Nombre de ports/Contrôleur Ethernet, Intel I219-V
+Norme(s) réseau, 10/100/1000Mbps
+Connecteurs panneau avant," 1xMicro (Jack3.5mm Femelle),  1xCasque (Jack 3.5mm Femelle),  2xUSB-2.0,  2xUSB-3.0"
+Connecteurs panneau arrière," 5xJack 3,5mm Femelle Stéréo,  1xAudio numérique S/PDIF Optique,  1xMiniDin 6Femelle (PS/2),  1xRJ45Femelle,  2xUSB-2.0,  4xUSB-3.0,  3xUSB-3.1,  1xUSB-3.1Type C Femelle,  3xDisplayPort Femelle,  1xDisplayPort USB Type C,  1xHDMI Femelle"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Puissance, 850W
+Monté, Oui
+Garantie légale, Voir les modalités

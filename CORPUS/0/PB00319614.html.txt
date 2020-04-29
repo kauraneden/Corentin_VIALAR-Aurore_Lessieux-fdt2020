@@ -1,0 +1,45 @@
+,0
+Désignation, Lenovo ThinkCentre V530s-07ICR SFF (11BM001BFR)
+Marque, LenovoLenovo
+Modèle, 11BM001BFR
+Système d'exploitation, Windows 10Professionnel 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake
+Type de processeur, Intel Core i3-8100 (Quad-Core 3.6GHz - Cache 6Mo)
+Processeur, Intel Core i3
+Fréquence CPU, 3.6GHz
+Chipset, Intel B365Express
+Taille de la mémoire, 4Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Capacité maximale de RAM par slot, 8Go
+Capacité maximale de RAM, 32Go
+Configuration disque(s), HDD-1To
+Disque dur, 1To
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, HDD (Hard Disk Drive)
+Interface avec l'ordinateur disque dur système, Serial ATA-6Gb/s (SATA Revision 3)
+Vitesse de rotation, 7200RPM
+Lecteur Optique," Graveur CD,  Graveur DVD,  Lecteur CD,  Lecteur DVD"
+Lecteur de disquettes, Non
+Chipset graphique, Intel UHD Graphics 630
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Non
+Sans-fil, Non
+Nombre de ports/Contrôleur Ethernet, 1xIntégré
+Norme(s) réseau, 10/100/1000Mbps
+Connecteurs panneau avant," 1xCasque (Jack 3.5mm Femelle),  1xMicro (Jack3.5mm Femelle),  4xUSB-3.0"
+Connecteurs panneau arrière," 1xJack 3,5mm Femelle Stéréo,  1xSérie (RS-232),  1xRJ45Femelle,  2xUSB-2.0,  2xUSB-3.0,  1xDisplayPort Femelle,  1xHDMI Femelle,  1xVGA (D-sub 15Femelle)"
+Clavier et souris fournis, Oui
+Format de PC, Tour
+Format du boitier, Mini Tour
+Largeur, 100mm
+Hauteur, 274.8mm
+Profondeur, 304.4mm
+Poids, 4.2kg
+Puissance, 180W
+Monté, Oui
+Usage, Professionnel
+Technologie Intel vPro, Non
+Garantie commerciale, 1an constructeur
+Garantie légale, Voir les modalités

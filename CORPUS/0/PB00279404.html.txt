@@ -1,0 +1,59 @@
+,0
+Désignation, Ordissimo Agathe 3
+Marque, OrdissimoOrdissimo
+Modèle, ART0383
+Système d'exploitation, Ordissimo
+Famille OS, Ordissimo
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Celeron
+Plateforme (Proc.), Intel Apollo Lake
+Type de processeur, Intel Celeron N3350 (Dual-Core 1.1GHz / 2.4GHz Rafale - Cache 2Mo)
+Fréquence CPU, 1.1GHz
+Nombre de core, 2
+Taille de la mémoire, 4Go
+Type de mémoire, DDR4
+Chipset graphique, Intel HD Graphics 500
+Max-Q (Design GPU), Non
+Ecran tactile, Non
+Type de Dalle, Dalle IPS
+Type d'écran, LED
+Taille de l'écran, 14pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), eMMC-64Go
+Disque dur, eMMC-64Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, eMMC (Puce à mémoire Flash)
+Emplacement mSATA/M.2, Aucun
+Lecteur Optique, Aucun
+Lecteur de cartes," micro SD,  micro SDHC,  micro SDXC"
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Intel vPro, Non
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Non
+Clavier RGB, Non
+Pavé numérique, Non
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 2xUSB-3.0,  1X micro HDMI Femelle"
+Couleur, Argent
+Profondeur, 220mm
+Largeur, 332mm
+Epaisseur, 13.7mm
+Poids, 1.5kg
+Ultrabook, Oui
+Hybride / Convertible, Non
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2ans constructeur
+Garantie légale, Voir les modalités

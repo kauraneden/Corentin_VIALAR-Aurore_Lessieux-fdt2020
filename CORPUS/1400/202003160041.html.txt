@@ -1,0 +1,67 @@
+,0
+Système d'exploitation, Windows 10Professionnel 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Core i7
+Plateforme (Proc.), Intel Comet Lake
+Type de processeur, Intel Core i7-10875H (Octo-Core 2.3GHz / 5.1GHz Turbo - 16Threads - Cache 16Mo)
+Fréquence CPU, 2.3GHz
+Nombre de core, 8
+Chipset, Mobile Intel HM470Express
+Taille de la mémoire, 16Go
+Nombre de barrettes, 2
+Nombre de slots mémoire disponibles, 0
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Taille de mémoire Max, 64Go
+Chipset graphique, NVIDIA GeForce RTX-2060
+Taille mémoire vidéo, 6Go
+Type mémoire vidéo, GDDR6
+Ecran tactile, Non
+Type de Dalle, Dalle AMOLED
+Type d'écran, LED
+Taille de l'écran, 15.6pouces
+Résolution Max, 3840x2160pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Oui
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-512Go
+Disque dur, SSD-512Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur, M.2 - PCI-E NVMe
+Nombre de disques, 1
+Nombre de disques max, 2
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique, Aucun
+Lecteur de cartes, SD (Secure Digital)
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi 6AX
+Technologie Bluetooth, Bluetooth 5.0
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Oui
+Clavier RGB, Oui
+Pavé numérique, Oui
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xJack 3,5mm Femelle Stéréo,  1xRJ45Femelle,  3xUSB-3.0,  1xMini DisplayPort,  1xThunderbolt 3/USB-C"
+Couleur, Noir
+Profondeur, 250mm
+Largeur, 356mm
+Epaisseur, 20mm
+Poids, 2kg
+Gamme, Gigabyte Aero
+Ultrabook, Non
+Hybride / Convertible, Non
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2années constructeur
+Garanties légales, Voir les modalités

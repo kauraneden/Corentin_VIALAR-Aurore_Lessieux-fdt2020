@@ -1,0 +1,63 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, AMD
+Processeur, AMD A10Quad-Core APU
+Plateforme (Proc.), AMD Excavator
+Type de processeur, AMD A10-9620P (Quad Core 2.5GHz / 3.4GHz Turbo - Cache 2Mo)
+Fréquence CPU, 2.5GHz
+Nombre de core, 4
+Taille de la mémoire, 4Go
+Nombre de barrettes, 1
+Nombre de slots mémoire disponibles, 1
+Type de mémoire, DDR4
+Taille de mémoire Max, 16Go
+Chipset graphique, AMD Radeon R5
+Ecran tactile, Non
+Type de Dalle, Dalle TN
+Type d'écran, LED
+Taille de l'écran, 15.6pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-512Go
+Disque dur, SSD-512Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur, M.2 - PCI-E NVMe
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique, Aucun
+Lecteur de cartes," SD (Secure Digital),  SDHC"
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 4.2
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Non
+Clavier RGB, Non
+Pavé numérique, Non
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xJack 3,5mm Femelle Stéréo,  2xUSB-2.0,  1xUSB-3.0,  1xUSB-3.0Type C"
+Couleur, Gris
+Profondeur, 243mm
+Largeur, 361mm
+Epaisseur, 19.4mm
+Poids, 1.7kg
+Ultrabook, Non
+Hybride / Convertible, Non
+Capacité de la batterie, 42Wh
+Nombre de cellules, 3
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2années constructeur
+Garanties légales, Voir les modalités

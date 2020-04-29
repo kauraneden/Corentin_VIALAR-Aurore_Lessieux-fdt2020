@@ -1,0 +1,68 @@
+,0
+Désignation, HP ENVY x360 13-ar0007nf (7GY98EA)
+Marque, HPHP
+Modèle, 7GY98EA#ABF
+Système d'exploitation, Windows 10Famille 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, AMD
+Processeur, AMD Ryzen 7
+Plateforme (Proc.), AMD Zen 2
+Type de processeur, AMD Ryzen 7 3700U (Quad-Core 2.3GHz / 4GHz Turbo - Cache 6Mo)
+Fréquence CPU, 2.3GHz
+Nombre de core, 4
+Taille de la mémoire, 8Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Chipset graphique, AMD Radeon RxVega 10Graphics
+Max-Q (Design GPU), Non
+Ecran tactile, Oui
+Type de Dalle, Dalle IPS
+Type d'écran, LED tactile
+Taille de l'écran, 13.3pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-512Go
+Disque dur, SSD-512Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur, M.2 - PCI-E NVMe
+Nombre de disques, 1
+Nombre de disques max, 1
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique, Aucun
+Lecteur de cartes, micro SD
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 4.2
+Technologie Intel vPro, Non
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, 4haut parleurs
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Oui
+Clavier RGB, Non
+Pavé numérique, Non
+Lecteur biométrique, Oui
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xJack 3,5mm Femelle Stéréo,  2xUSB-3.0,  1xUSB-3.0Type C"
+Couleur, Noir
+Profondeur, 212mm
+Largeur, 306.7mm
+Epaisseur, 14.9mm
+Poids, 1.3kg
+Gamme, HP ENVY
+Ultrabook, Oui
+Hybride / Convertible, Non
+Autonomie, 11Heure(s)
+Capacité de la batterie, 53Wh
+Nombre de cellules, 4
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 1an constructeur
+Garantie légale, Voir les modalités

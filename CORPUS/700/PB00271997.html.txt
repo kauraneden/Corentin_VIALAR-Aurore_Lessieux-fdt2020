@@ -1,0 +1,67 @@
+,0
+Désignation, ASUS Chromebook Flip 14C434TA-AI0030
+Marque, ASUSASUS
+Modèle, 90NX0231-M00320
+Système d'exploitation, Chrome OS
+Famille OS, Chrome OS
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Processeur, Intel Core i5
+Plateforme (Proc.), Intel Amber Lake Y
+Type de processeur, Intel Core i5-8200Y (Dual-Core 1.3GHz / 3.9GHz Turbo - Cache 4Mo - TDP-5W)
+Fréquence CPU, 1.3GHz
+Nombre de core, 2
+Taille de la mémoire, 8Go
+Nombre de barrettes, 1
+Nombre de slots mémoire disponibles, 0
+Type de mémoire, DDR3
+Taille de mémoire Max, 8Go
+Chipset graphique, Intel UHD Graphics 615
+Max-Q (Design GPU), Non
+Ecran tactile, Oui
+Type de Dalle, Dalle TN
+Type d'écran, LED tactile
+Taille de l'écran, 14pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Non
+Dalle brillante, Oui
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), eMMC-32Go
+Disque dur, eMMC-32Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, eMMC (Puce à mémoire Flash)
+Emplacement mSATA/M.2, Aucun
+Lecteur Optique, Aucun
+Lecteur de cartes," micro SD,  micro SDHC,  micro SDXC"
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 4.0
+Technologie Intel vPro, Non
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Type d'activités, Internet
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Oui
+Clavier RGB, Non
+Pavé numérique, Non
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xJack 3,5mm Femelle Stéréo,  1xUSB-3.0,  2xUSB-3.0Type C"
+Couleur, Argent
+Profondeur, 202mm
+Largeur, 321mm
+Epaisseur, 15.7mm
+Poids, 1.5kg
+Gamme, ASUS Chromebook
+Ultrabook, Oui
+Hybride / Convertible, Oui
+Nombre de cellules, 3
+Batterie amovible, Non
+Chargeur secteur USB-C, Oui
+Garantie commerciale, 2ans constructeur
+Garantie légale, Voir les modalités

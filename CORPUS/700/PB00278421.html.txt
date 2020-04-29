@@ -1,0 +1,72 @@
+,0
+Désignation, ASUS ROG STRIxG G531GT-AL003T
+Marque, ASUSASUS
+Modèle, STRIX3-G-G531GT-AL003T
+Système d'exploitation, Windows 10Famille 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Core i7
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i7-9750H (Hexa-Core 2.6GHz / 4.5GHz Turbo - 12Threads - Cache 12Mo)
+Fréquence CPU, 2.6GHz
+Nombre de core, 6
+Chipset, Mobile Intel HM370Express
+Taille de la mémoire, 16Go
+Nombre de barrettes, 2
+Nombre de slots mémoire disponibles, 0
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Taille de mémoire Max, 32Go
+Chipset graphique, NVIDIA GeForce GTX-1650
+Taille mémoire vidéo, 4Go
+Type mémoire vidéo, GDDR5
+Max-Q (Design GPU), Non
+Ecran tactile, Non
+Type de Dalle, Dalle IPS
+Type d'écran, LED
+Taille de l'écran, 15.6pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 120Hz
+Configuration disque(s), SSD-512Go
+Disque dur, SSD-512Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur, M.2 - PCI-E
+Nombre de disques, 1
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique, Aucun
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 5.0
+Technologie Intel vPro, Non
+Sans-fil, Oui
+Webcam, Non
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Oui
+Clavier RGB, Oui
+Pavé numérique, Non
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xRJ45,  1xHDMI Femelle,  1xJack 3,5mm Femelle Stéréo,  3xUSB-3.0"
+Couleur, Noir
+Profondeur, 275mm
+Largeur, 360mm
+Epaisseur, 25.8mm
+Poids, 2.4kg
+Gamme, ASUS ROG
+Ultrabook, Non
+Hybride / Convertible, Non
+Nombre de cellules, 3
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie légale, Voir les modalités

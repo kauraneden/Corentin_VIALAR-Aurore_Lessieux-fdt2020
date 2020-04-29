@@ -1,0 +1,36 @@
+,0
+Désignation, PC HardWare.fr Basic - Monté (sans OS)
+Marque, HardWare.frHardWare.fr
+Modèle, HFR_OFFICE_MO
+Système d'exploitation, Sans OS
+Système d'exploitation fourni, Non
+Plateforme (Proc.), Intel Coffee Lake
+Type de processeur," Intel Pentium G5400 (Dual Core 3.7GHz, cache 3M)"
+Processeur, Intel Pentium
+Fréquence CPU, 3.7GHz
+Chipset, Intel H110Express
+Taille de la mémoire, 8Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2133MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 32Go
+Configuration disque(s), SSD-240Go
+Disque dur, SSD-240Go
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, Serial ATA-6Gb/s (SATA Revision 3)
+Chipset graphique, Intel UHD Graphics 610
+VR Ready (réalité virtuelle), Non
+Nombre de ports/Contrôleur Ethernet, Intel I219-V
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi AC
+Connecteurs panneau avant," Casque (Jack 3.5mm Femelle),  Micro (Jack3.5mm Femelle),  2xUSB-3.0"
+Connecteurs panneau arrière," 3xJack 3,5mm Femelle Stéréo,  RJ45Femelle,  2xUSB-2.0,  2xUSB-3.0,  DisplayPort Femelle,  DVI Femelle,  HDMI Femelle"
+Format de PC, Mini PC
+Format du boitier, Mini PC
+Puissance, 150W
+Monté, Oui
+Gamme de PC HardWare.fr, Basic
+Usage, Professionnel
+Technologie Intel vPro, Non
+Garantie légale, Voir les modalités

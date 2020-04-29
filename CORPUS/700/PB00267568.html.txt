@@ -1,0 +1,43 @@
+,0
+Désignation, Fujitsu CELSIUS W580 (VFY:W5800W271SFR)
+Marque, FujitsuFujitsu
+Modèle, VFY:W5800W271SFR
+Système d'exploitation, Windows 10Professionnel 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake
+Type de processeur, Intel Core i7-8700 (Hexa-Core 3.2GHz / 4.6GHz Turbo - Cache 12Mo)
+Processeur, Intel Core i7
+Fréquence CPU, 3.2GHz
+Chipset, Intel C246
+Taille de la mémoire, 8Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-256Go
+Disque dur, SSD-256Go
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E NVMe
+Lecteur Optique, Graveur DVD Super Multi
+Lecteur de disquettes, Non
+Chipset graphique, Intel UHD Graphics 630
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Non
+Sans-fil, Non
+Nombre de ports/Contrôleur Ethernet, 1xIntel I219-LM
+Norme(s) réseau, 10/100/1000Mbps
+Connecteurs panneau avant," 1xCasque (Jack 3.5mm Femelle),  1xMicro (Jack3.5mm Femelle),  2xUSB-2.0,  2xUSB-3.0"
+Connecteurs panneau arrière," 2xJack 3,5mm Femelle Stéréo,  2xMiniDin 6Femelle (PS/2),  1xRJ45Femelle,  2xUSB-2.0,  4xUSB-3.0,  2xDisplayPort Femelle,  1xDVI Femelle"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Largeur, 180mm
+Hauteur, 375mm
+Profondeur, 304mm
+Poids, 10kg
+Puissance, 280W
+Monté, Oui
+Usage, Professionnel
+Technologie Intel vPro, Non
+Garantie commerciale, 3ans constructeur
+Garantie légale, Voir les modalités

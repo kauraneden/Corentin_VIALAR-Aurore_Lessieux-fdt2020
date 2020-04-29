@@ -1,0 +1,63 @@
+,0
+Système d'exploitation, Windows 10Professionnel 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Core i3
+Plateforme (Proc.), Intel Comet Lake
+Type de processeur, Intel Core i3-10110U (Dual-Core 2.1GHz / 4.1GHz Turbo - 4Threads - Cache 4Mo)
+Fréquence CPU, 2.1GHz
+Nombre de core, 2
+Taille de la mémoire, 8Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Taille de mémoire Max, 16Go
+Chipset graphique, Intel UHD Graphics
+Ecran tactile, Non
+Type de Dalle, Dalle TN
+Type d'écran, LED
+Taille de l'écran, 15.6pouces
+Résolution Max, 1366x768pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-256Go
+Disque dur, SSD-256Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur, M.2 - PCI-E
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique, Aucun
+Lecteur de cartes," SD (Secure Digital),  SDHC"
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi 6AX
+Technologie Bluetooth, Bluetooth 5.0
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Non
+Clavier RGB, Non
+Pavé numérique, Oui
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xJack 3,5mm Femelle Stéréo,  1xRJ45Femelle,  3xUSB-3.0,  1xUSB-3.0Type C"
+Couleur, Noir
+Profondeur, 244mm
+Largeur, 361mm
+Epaisseur, 19.9mm
+Poids, 1.7kg
+Gamme, Dynabook Satellite Pro
+Ultrabook, Non
+Hybride / Convertible, Non
+Autonomie, 11Heure(s)
+Nombre de cellules, 4
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garanties légales, Voir les modalités

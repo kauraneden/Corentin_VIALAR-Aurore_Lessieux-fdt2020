@@ -1,0 +1,42 @@
+,0
+Désignation, HP VR G2 (6TV13EA)
+Marque, HPHP
+Modèle, 6TV13EA#ABF
+Système d'exploitation, Windows 10Professionnel 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake
+Type de processeur, Intel Core i7-8850H (Hexa-Core 2.6GHz / 4.3GHz Turbo - 12Threads - Cache 9Mo)
+Processeur, Intel Core i7
+Fréquence CPU, 2.6GHz
+Chipset, Mobile Intel QM370Express
+Taille de la mémoire, 16Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 32Go
+Configuration disque(s), SSD-512Go
+Disque dur, SSD-512Go
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA GeForce RTX-2080
+Taille mémoire vidéo, 8Go
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, 1xIntel I219-LM
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil," Bluetooth 5.0,  Wi-Fi AC"
+Connecteurs panneau arrière," 1xJack 3,5mm Femelle Stéréo,  1xRJ45Femelle,  4xUSB-3.0,  1xThunderbolt"
+Clavier et souris fournis, Non
+Largeur, 333mm
+Hauteur, 609mm
+Profondeur, 236mm
+Poids, 4.66kg
+Puissance, 330W
+Monté, Oui
+Technologie Intel vPro, Non
+Garantie commerciale, 1an constructeur
+Garantie légale, Voir les modalités

@@ -1,0 +1,66 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Core i3
+Plateforme (Proc.), Intel Kaby Lake
+Type de processeur, Intel Core i3-7020U (Dual-Core 2.3GHz - Cache 3Mo)
+Fréquence CPU, 2.3GHz
+Nombre de core, 2
+Taille de la mémoire, 4Go
+Nombre de barrettes, 1
+Nombre de slots mémoire disponibles, 1
+Type de mémoire, DDR4
+Taille de mémoire Max, 12Go
+Chipset graphique, Intel UHD Graphics 620
+Ecran tactile, Non
+Type de Dalle, Dalle TN
+Type d'écran, LED
+Taille de l'écran, 17.3pouces
+Résolution Max, 1600x900pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Non
+Dalle brillante, Oui
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-256Go
+Disque dur, SSD-256Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur, M.2 - PCI-E
+Nombre de disques, 1
+Nombre de disques max, 2
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique," Graveur DVD,  Graveur CD,  Lecteur CD"
+Lecteur de cartes, Aucun
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 4.2
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Non
+Clavier RGB, Non
+Pavé numérique, Oui
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xHDMI Femelle,  2xUSB-2.0,  1xRJ45Femelle,  1xJack 3,5mm Femelle Stéréo"
+Couleur, Noir
+Profondeur, 289.5mm
+Largeur, 419.5mm
+Epaisseur, 20.95mm
+Poids, 2.7kg
+Gamme, Acer Aspire
+Ultrabook, Non
+Hybride / Convertible, Non
+Autonomie, 5.5Heure(s)
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2années constructeur
+Garanties légales, Voir les modalités

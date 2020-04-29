@@ -1,0 +1,39 @@
+,0
+Désignation, LDLC PC Zi Artist
+Marque, LDLCLDLC
+Modèle, PC ZI ARTIST KABY EDITION
+Système d'exploitation, Sans OS
+Système d'exploitation fourni, Non
+Plateforme (Proc.), Intel Coffee Lake
+Type de processeur, Intel Core i7-9700 (Octo-Core 3.0GHz / 4.7GHz Turbo - Cache 12Mo - TDP-65W)
+Processeur, Intel Core i7
+Fréquence CPU, 3GHz
+Chipset, Intel B365Express
+Taille de la mémoire, 16Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-240Go + HDD-2To
+Disque dur, SSD-240Go
+Disque secondaire, HDD-2To
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, Serial ATA-6Gb/s (SATA Revision 3)
+Vitesse de rotation, 7200RPM
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, Intel HD Graphics 630
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Non
+Sans-fil, Non
+Connecteurs panneau avant," Casque (Jack 3.5mm Femelle),  Micro (Jack3.5mm Femelle),  2xUSB-3.0"
+Connecteurs panneau arrière," 3xJack 3,5mm Femelle Stéréo,  1xMiniDin 6Femelle (PS/2),  1xRJ45Femelle,  2xUSB-2.0,  4xUSB-3.0,  1xUSB-3.0Type C,  1xDVI Femelle,  1xHDMI Femelle,  1xVGA (D-sub 15Femelle)"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Puissance, 550W
+Monté, Non
+Gamme de PC LDLC, Creator
+Usage," Familial,  Professionnel"
+Technologie Intel vPro, Non
+Garantie légale, Voir les modalités

@@ -1,0 +1,67 @@
+,0
+Système d'exploitation, Windows 10Professionnel 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, AMD
+Processeur, AMD Ryzen 5
+Plateforme (Proc.), AMD Zen+
+Type de processeur, AMD Ryzen 5 3500U (Quad Core 2.1GHz / 3.7GHz Turbo - Cache 4Mo)
+Fréquence CPU, 2.1GHz
+Nombre de core, 4
+Taille de la mémoire, 8Go
+Nombre de barrettes, 1
+Nombre de slots mémoire disponibles, 1
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Chipset graphique, AMD Radeon Vega 8Graphics
+Ecran tactile, Non
+Type de Dalle, Dalle IPS
+Type d'écran, LED
+Taille de l'écran, 14pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-256Go
+Disque dur, SSD-256Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur, M.2 - PCI-E NVMe
+Nombre de disques, 1
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique, Aucun
+Lecteur de cartes," SD (Secure Digital),  SDHC"
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 4.2
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Non
+Clavier RGB, Non
+Pavé numérique, Non
+Lecteur biométrique, Oui
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xHDMI Femelle,  1xUSB-2.0,  1xRJ45Femelle,  1xJack 3,5mm Femelle Stéréo,  2xUSB-3.0"
+Couleur, Argent
+Profondeur, 237.7mm
+Largeur, 324.2mm
+Epaisseur, 18mm
+Poids, 1.6kg
+Gamme, HP ProBook
+Ultrabook, Non
+Hybride / Convertible, Non
+Autonomie, 14Heure(s)
+Capacité de la batterie, 45Wh
+Nombre de cellules, 3
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 1année constructeur
+Garanties légales, Voir les modalités

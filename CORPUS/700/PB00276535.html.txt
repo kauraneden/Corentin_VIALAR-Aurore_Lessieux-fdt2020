@@ -1,0 +1,40 @@
+,0
+Désignation, Dell OptiPlex3070Micro (3RC7K)
+Marque, DellDell
+Modèle, 3RC7K
+Système d'exploitation, Windows 10Professionnel 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i5-9500T (Hexa-Core 2.2GHz / 3.7GHz Turbo - 6Threads - Cache 9Mo)
+Processeur, Intel Core i5
+Fréquence CPU, 2.2GHz
+Taille de la mémoire, 8Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 32Go
+Configuration disque(s), SSD-256Go
+Disque dur, SSD-256Go
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, Intel UHD Graphics 630
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Non
+Sans-fil, Non
+Nombre de ports/Contrôleur Ethernet, Intégré
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil," Bluetooth 4.1,  Wi-Fi AC"
+Connecteurs panneau avant," 1xJack 3,5mm Femelle Stéréo,  1xMicro (Jack3.5mm Femelle),  2xUSB-3.0"
+Connecteurs panneau arrière," 1xRJ45Femelle,  2xUSB-2.0,  2xUSB-3.0,  1xDisplayPort Femelle,  1xHDMI Femelle"
+Format de PC, Tour
+Largeur, 36mm
+Hauteur, 182mm
+Profondeur, 178mm
+Poids, 1.18kg
+Monté, Oui
+Usage, Professionnel
+Technologie Intel vPro, Non
+Garantie légale, Voir les modalités

@@ -1,0 +1,40 @@
+,0
+Désignation, Intel NUC NUC8i7HNKQC
+Marque, IntelIntel
+Modèle, BOXNUC8I7HNKQC2
+Système d'exploitation, Windows 10Professionnel 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Kaby Lake G
+Type de processeur, Intel Core i7-8705G (Quad-Core 3.1GHz / 4.1GHz Turbo - Cache 8Mo - TDP-65W)
+Processeur, Intel Core i7
+Fréquence CPU, 3.1GHz
+Taille de la mémoire, 16Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 32Go
+Configuration disque(s), SSD-512Go
+Disque dur, SSD-512Go
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E NVMe
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, AMD Radeon RxVega M GL Graphics
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, 2xIntégré
+Norme(s) réseau," 10/100/1000Mbps,  Wi-Fi AC,  Bluetooth 4.2"
+Norme(s) réseau sans-fil," Wi-Fi AC,  Bluetooth 4.2"
+Connecteurs panneau avant," SD (Secure Digital),  SDHC,  1xJack 3,5mm Femelle Stéréo,  2xUSB-3.0,  SDXC,  1xHDMI-2.0Femelle,  1xUSB-3.1Type C Femelle"
+Connecteurs panneau arrière," 2xGigabit Ethernet - RJ45Femelle,  1xS/PDIF + Line OUT (Jack 3.5mm),  2xMini DisplayPort,  4xUSB-3.0,  1xHDMI-2.0Femelle,  2xThunderbolt 3"
+Clavier et souris fournis, Non
+Format de PC, Mini PC
+Format du boitier, Mini PC
+Largeur, 221mm
+Hauteur, 39mm
+Profondeur, 142mm
+Puissance, 230W
+Monté, Oui
+Technologie Intel vPro, Non
+Garantie légale, Voir les modalités

@@ -1,0 +1,65 @@
+,0
+Désignation, ASUS P1503DA-BR451R
+Marque, ASUSASUS
+Modèle, 90NB0P52-M07960
+Système d'exploitation, Windows 10Professionnel 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, AMD
+Processeur, AMD Ryzen 5
+Plateforme (Proc.), AMD Zen+
+Type de processeur, AMD Ryzen 5 3500U (Quad Core 2.1GHz / 3.7GHz Turbo - Cache 4Mo)
+Fréquence CPU, 2.1GHz
+Nombre de core, 4
+Taille de la mémoire, 8Go
+Nombre de barrettes, 1
+Nombre de slots mémoire disponibles, 1
+Chipset graphique, AMD Radeon Vega 8Graphics
+Max-Q (Design GPU), Non
+Ecran tactile, Non
+Type de Dalle, Dalle TN
+Type d'écran, LED
+Taille de l'écran, 15.6pouces
+Résolution Max, 1366x768pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-256Go
+Disque dur, SSD-256Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Nombre de disques, 1
+Lecteur Optique, Aucun
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 4.1
+Technologie Intel vPro, Non
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Non
+Clavier RGB, Non
+Pavé numérique, Oui
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xHDMI Femelle,  2xUSB-2.0,  1xJack 3,5mm Femelle Stéréo,  1xUSB-3.0,  1xUSB-3.0Type C"
+Couleur, Gris
+Profondeur, 234.9mm
+Largeur, 360.2mm
+Epaisseur, 22.9mm
+Poids, 1.8kg
+Gamme, ASUSPRO
+Ultrabook, Non
+Hybride / Convertible, Non
+Capacité de la batterie, 32Wh
+Nombre de cellules, 2
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2ans constructeur
+Garantie légale, Voir les modalités

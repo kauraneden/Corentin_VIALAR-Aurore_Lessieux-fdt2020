@@ -1,0 +1,36 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Plateforme (Proc.), Intel Kaby Lake
+Type de processeur, Processeur Intel Core i5-7260U (Dual-Core 2.2GHz / 3.4GHz Turbo - Cache 4Mo - TDP-15W)
+Processeur, Intel Core i5
+Fréquence CPU, 2.2GHz
+Taille de la mémoire, 4Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2133MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 32Go
+Configuration disque(s), Intel Optane 16Go + HDD-1To
+Disque dur, eMMC-16Go
+Disque secondaire, HDD-1To
+Type de Disque Système, eMMC (Puce à mémoire Flash)
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, Intel Iris Plus Graphics 640
+VR Ready (réalité virtuelle), Non
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, Intégré
+Norme(s) réseau," 10/100/1000Mbps,  Wi-Fi AC"
+Norme(s) réseau sans-fil, Wi-Fi AC
+Connecteurs panneau avant," SD (Secure Digital),  1xMicro (Jack3.5mm Femelle),  1xCasque (Jack 3.5mm Femelle),  SDHC,  2xUSB-3.0"
+Connecteurs panneau arrière," 1xRJ45Femelle,  2xUSB-3.0,  1xThunderbolt"
+Clavier et souris fournis, Non
+Format de PC, Mini PC
+Format du boitier, Mini PC
+Largeur, 115mm
+Hauteur, 51mm
+Profondeur, 111mm
+Puissance, 65W
+Monté, Oui
+Usage, Familial
+Technologie Intel vPro, Non
+Garanties légales, Voir les modalités

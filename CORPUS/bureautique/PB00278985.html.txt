@@ -1,0 +1,42 @@
+,0
+Désignation, Acer Veriton S2660G (DT.VQXEF.009)
+Marque, AcerAcer
+Modèle, DT.VQXEF.009
+Système d'exploitation, Windows 10Professionnel 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake
+Type de processeur, Intel Core i5-8400 (Hexa-Core 2.8GHz / 4GHz Turbo - Cache 9Mo)
+Processeur, Intel Core i5
+Fréquence CPU, 2.8GHz
+Chipset, Intel B360Express
+Taille de la mémoire, 4Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 32Go
+Configuration disque(s), HDD-1To
+Disque dur, 1To
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, HDD (Hard Disk Drive)
+Interface avec l'ordinateur disque dur système, Serial ATA
+Vitesse de rotation, 7200RPM
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, Intel UHD Graphics 630
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Non
+Sans-fil, Non
+Nombre de ports/Contrôleur Ethernet, 1xIntégré
+Norme(s) réseau, 10/100/1000Mbps
+Connecteurs panneau avant," 1xCasque (Jack 3.5mm Femelle),  1xMicro (Jack3.5mm Femelle),  2xUSB-3.0,  2xUSB-3.1"
+Connecteurs panneau arrière," 1xSérie (RS-232),  1xHDMI Femelle,  4xUSB-2.0,  2xMiniDin 6Femelle (PS/2),  1xVGA (D-sub 15Femelle),  1xRJ45Femelle,  3xJack 3,5mm Femelle Stéréo,  1xDisplayPort Femelle"
+Clavier et souris fournis, Oui
+Format de PC, Tour
+Largeur, 160mm
+Hauteur, 350mm
+Profondeur, 309.25mm
+Puissance, 180W
+Monté, Oui
+Usage, Professionnel
+Technologie Intel vPro, Non
+Garantie légale, Voir les modalités

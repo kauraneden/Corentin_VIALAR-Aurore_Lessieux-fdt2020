@@ -1,0 +1,72 @@
+,0
+Désignation, Toshiba Satellite Pro R50-C-14G · Occasion
+Marque, Toshiba
+Modèle, PS571E-06302YFR
+Système d'exploitation, Windows 10Professionnel 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Celeron
+Plateforme (Proc.), Intel Skylake
+Type de processeur, Intel Celeron 3855U (Dual-Core 1.6GHz - Cache 2Mo)
+Fréquence CPU, 1.6GHz
+Nombre de core, 2
+Taille de la mémoire, 4Go
+Nombre de barrettes, 1
+Type de mémoire, DDR3L (1.35V)
+Fréquence(s) Mémoire, DDR3 1600MHz
+Taille de mémoire Max, 8Go
+Chipset graphique, Intel HD Graphics 510
+Max-Q (Design GPU), Non
+Ecran tactile, Non
+Type de Dalle, Dalle TN
+Type d'écran, LED
+Taille de l'écran, 15.6pouces
+Résolution Max, 1366x768pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), HDD-500Go
+Disque dur, 500Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, HDD (Hard Disk Drive)
+Vitesse de rotation, 5400RPM
+Interface du disque dur, Serial ATA
+Nombre de disques, 1
+Nombre de disques max, 1
+Emplacement mSATA/M.2, Aucun
+Lecteur Optique," Graveur DVD,  Graveur CD,  Lecteur CD,  Lecteur DVD"
+Lecteur de cartes," SD (Secure Digital),  SDHC,  SDXC"
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil," Wi-Fi A (IEEE-802.11a),  Wi-Fi AC,  Wi-Fi B (IEEE-802.11b),  Wi-Fi G (IEEE-802.11g),  Wi-Fi N-150Mbps (IEEE-802.11n)"
+Technologie Bluetooth, Bluetooth 4.0
+Technologie Intel vPro, Non
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Non
+Clavier RGB, Non
+Pavé numérique, Oui
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xRJ45,  1xHDMI Femelle,  2xUSB-2.0,  1xVGA (D-sub 15Femelle),  1xJack 3,5mm Femelle Stéréo,  2xUSB-3.0"
+Couleur, Noir
+Profondeur, 258mm
+Largeur, 379mm
+Epaisseur, 23.95mm
+Poids, 2.2kg
+Gamme, Toshiba Satellite Pro
+Ultrabook, Non
+Hybride / Convertible, Non
+Autonomie, 8Heure(s)
+Nombre de cellules, 4
+Batterie amovible, Oui
+Chargeur secteur USB-C, Non
+Garantie légale, Voir les modalités

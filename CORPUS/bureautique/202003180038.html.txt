@@ -1,0 +1,66 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, AMD Ryzen 5
+Plateforme (Proc.), AMD Zen+
+Type de processeur, AMD Ryzen 5 3500U (Quad Core 2.1GHz / 3.7GHz Turbo - Cache 4Mo)
+Fréquence CPU, 2.1GHz
+Nombre de core, 4
+Taille de la mémoire, 8Go
+Nombre de barrettes, 1
+Nombre de slots mémoire disponibles, 1
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Chipset graphique, AMD Radeon Vega 8Graphics
+Ecran tactile, Non
+Type de Dalle, Dalle TN
+Type d'écran, LED
+Taille de l'écran, 15.6pouces
+Résolution Max, 1366x768pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Non
+Dalle brillante, Oui
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-512Go
+Disque dur, SSD-512Go
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur, M.2 - PCI-E NVMe
+Nombre de disques, 1
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique," Graveur CD,  Graveur DVD,  Lecteur CD"
+Lecteur de cartes, SD (Secure Digital)
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi N (IEEE-802.11n)
+Technologie Bluetooth, Bluetooth 4.0
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Non
+Clavier RGB, Non
+Pavé numérique, Oui
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xJack 3,5mm Femelle Stéréo,  1xRJ45,  1xUSB-2.0,  2xUSB-3.0"
+Couleur, Argent
+Profondeur, 246mm
+Largeur, 376mm
+Epaisseur, 22.5mm
+Poids, 1.8kg
+Ultrabook, Non
+Hybride / Convertible, Non
+Autonomie, 10Heure(s)
+Capacité de la batterie, 41Wh
+Nombre de cellules, 3
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 1année constructeur
+Garanties légales, Voir les modalités

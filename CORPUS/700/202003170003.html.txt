@@ -1,0 +1,39 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), AMD Zen+
+Type de processeur, AMD Ryzen 7 2700X (8coeurs - 16threads - 3.70Ghz - Turbo 4.30Ghz - Cache 16Mo - TDP-105W)
+Processeur, AMD Ryzen 7
+Fréquence CPU, 3.7GHz
+Modèle refroidissement CPU, Corsair H100X
+Chipset, AMD B450
+Modèle de la carte mère, Gigabyte B450Aorus Elite
+Taille de la mémoire, 16Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 3200MHz
+Marque de la RAM, G.Skill
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-1To
+Modèle du SSD, Kingston KC600
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, Serial ATA-6Gb/s (SATA Revision 3)
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, AMD Radeon RX-5700XT
+Taille mémoire vidéo, 8Go
+Référence de la carte graphique, Gigabyte Radeon RX-5700XT GAMING OC
+Type de multi-GPU, Aucun
+Sans-fil, Non
+Nombre de ports/Contrôleur Ethernet, 1xIntégré
+Connecteurs panneau avant," 2xCasque (Jack 3.5mm Femelle),  2xUSB-2.0"
+Connecteurs panneau arrière," 6xJack 3,5mm Femelle Stéréo,  4xUSB-2.0,  4xUSB-3.0,  3xDisplayPort Femelle"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Modèle du boitier, Antec NX600
+Puissance, 600W
+Modèle de l'alimentation, Be Quiet System Power 9
+Monté, Oui
+Gamme, Performance
+Garanties légales, Voir les modalités

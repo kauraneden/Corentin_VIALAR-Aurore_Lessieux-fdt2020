@@ -1,0 +1,43 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i3-9100F (Quad-Core 3.6GHz / 4.2GHz - TDP-65W)
+Processeur, Intel Core i3
+Fréquence CPU, 3.6GHz
+Modèle refroidissement CPU, Ventirad d'origine
+Chipset, Intel B360Express
+Modèle de la carte mère, Asus PRIME B360M-A
+Taille de la mémoire, 8Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Marque de la RAM, Crucial
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-500Go
+Disque dur, SSD-500Go
+Modèle du SSD, Kingston A2000
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA GeForce GT-710
+Taille mémoire vidéo, 1Go
+VR Ready (réalité virtuelle), Non
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, Realtek RTL8111H
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi N-300Mbps (IEEE-802.11n)
+Connecteurs panneau avant," 1xMicro (Jack3.5mm Femelle),  1xCasque (Jack 3.5mm Femelle)"
+Connecteurs panneau arrière," 1xHDMI Femelle,  1xDVI Femelle,  1xGigabit Ethernet - RJ45Femelle,  2xUSB-2.0Type A Femelle,  3xJack 3,5mm Femelle Stéréo,  2xPS/2,  1xVGA,  1xUSB-3.0Type C"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Modèle du boitier, CORSAIR CARBIDE SERIES-270R
+Largeur, 210mm
+Hauteur, 460mm
+Profondeur, 509mm
+Puissance, 400W
+Modèle de l'alimentation, Corsair CX450M
+Monté, Oui
+Usage, Familial
+Garanties légales, Voir les modalités

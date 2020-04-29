@@ -1,0 +1,37 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Braswell
+Type de processeur," Intel Celeron J3455 (1,5GHz)"
+Processeur, Intel Celeron N
+Taille de la mémoire, 8Go
+Type de mémoire, DDR3
+Fréquence(s) Mémoire, DDR3 1600MHz
+Marque de la RAM, Crucial
+Capacité maximale de RAM par slot, 8Go
+Capacité maximale de RAM, 8Go
+Configuration disque(s), SSD-250Go
+Disque dur, SSD-250Go
+Disque secondaire, Sans disque secondaire
+Modèle du SSD, Samsung 860EVO
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, Serial ATA-6Gb/s (SATA Revision 3)
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, Intel HD Graphics
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Non
+Sans-fil, Oui
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Bluetooth 4.0
+Connecteurs panneau avant," 1xCasque (Jack 3.5mm Femelle),  1xMicro (Jack3.5mm Femelle),  2xUSB-3.0"
+Connecteurs panneau arrière," 1xRJ45Femelle,  2xUSB-3.0,  1xHDMI-2.0Femelle"
+Clavier et souris fournis, Non
+Format de PC, Mini PC
+Format du boitier, Mini PC
+Largeur, 115mm
+Hauteur, 51mm
+Profondeur, 111mm
+Puissance, 65W
+Usage, de Salon
+Garanties légales, Voir les modalités

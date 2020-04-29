@@ -1,0 +1,40 @@
+,0
+Désignation, LDLC PC10GeForce eSPORT PCS BATTLEBOxR5
+Marque, LDLCLDLC
+Modèle, PC10GEFORCE ESPORT PCS BATTLEBOxR5
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), AMD Zen 2
+Type de processeur, AMD Ryzen 5 3600X (6-Core 3.8GHz / 4.4GHz Turbo)
+Processeur, AMD Ryzen 5
+Fréquence CPU, 3.8GHz
+Chipset, AMD B450
+Taille de la mémoire, 16Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-480Go
+Disque dur, SSD-480Go
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E-3.0 4x
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA GeForce RTX-2080SUPER
+Taille mémoire vidéo, 8Go
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, Realtek RTL8111H-CG
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi N-300Mbps (IEEE-802.11n)
+Connecteurs panneau avant," Casque (Jack 3.5mm Femelle),  Micro (Jack3.5mm Femelle),  2xUSB-3.0"
+Connecteurs panneau arrière," 6xJack 3,5mm Mâle Stéréo,  1xMiniDin 6Femelle (PS/2),  1xRJ45Femelle,  2xUSB-2.0,  2xUSB-3.0,  2xUSB-3.1,  3xDisplayPort Femelle,  1xHDMI Femelle"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Puissance, 550W
+Monté, Oui
+Technologie Intel vPro, Non
+Garantie légale, Voir les modalités

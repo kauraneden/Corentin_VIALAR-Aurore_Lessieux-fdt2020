@@ -1,0 +1,38 @@
+,0
+Désignation, PC LDLC ZenThree
+Marque, LDLCLDLC
+Modèle, ZENTHREE
+Système d'exploitation, Sans OS
+Système d'exploitation fourni, Non
+Plateforme (Proc.), AMD Zen
+Type de processeur, AMD Ryzen 3 2200G Wraith Stealth Edition (Quad-Core 3.5GHz / Turbo 3.7GHz - Cache 6Mo - TDP-65W)
+Processeur, AMD Ryzen 3
+Fréquence CPU, 3.5GHz
+Taille de la mémoire, 8Go
+Type de mémoire, DDR4
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 32Go
+Configuration disque(s), SSD-480Go
+Disque dur, SSD-480Go
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, Serial ATA-6Gb/s (SATA Revision 3)
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, AMD Radeon Vega 8Graphics
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Non
+Sans-fil, Non
+Nombre de ports/Contrôleur Ethernet, Realtek RTL8111H
+Norme(s) réseau, 10/100/1000Mbps
+Connecteurs panneau avant," 1xCasque (Jack 3.5mm Femelle),  1xMicro (Jack3.5mm Femelle),  2xUSB-3.0"
+Connecteurs panneau arrière," 3xJack 3,5mm Femelle Stéréo,  2xMiniDin 6Femelle (PS/2),  1xRJ45Femelle,  2xUSB-2.0,  4xUSB-3.0,  1xDVI Femelle,  1xHDMI Femelle"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Puissance, 350W
+Monté, Non
+Gamme de PC LDLC, Publik
+Usage, Familial
+Technologie Intel vPro, Non
+Garantie légale, Voir les modalités

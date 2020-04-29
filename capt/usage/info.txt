@@ -1,0 +1,166 @@
+PART : 25 règles (pour les 2)
+JRip : 9 règles (pour les 2)
+
+temps : PART < JRip (de 0.50s)
+
+lisibilité : JRip > PART
+(plus compacte)
+règles JRip :
+
+JRIP rules:
+===========
+
+(vidéo <= 0) and (4go >= 1) => xClasse=0 (97.0/2.0)
+(vidéo <= 0) and (4mo >= 1) and (oui <= 5) => xClasse=0 (20.0/1.0)
+(turbo <= 0) => xClasse=0 (23.0/7.0)
+(12go >= 1) and (ssd-256go >= 2) => xClasse=0 (11.0/2.0)
+(dual-core >= 1) and (0 >= 2) => xClasse=0 (5.0/1.0)
+(geforce >= 1) and (non <= 9) and (6go <= 0) and (gtx-1050ti <= 0) => xClasse=1400 (110.0/6.0)
+(12mo >= 1) and (oui >= 7) => xClasse=1400 (64.0/12.0)
+(i7 >= 1) and (la <= 1) and (10famille <= 0) and (graphics <= 0) => xClasse=1400 (18.0/2.0)
+ => xClasse=700 (274.0/36.0)
+
+Number of Rules : 9
+
+
+
+#######-------------------------------
+règles PART :
+
+PART decision list
+------------------
+
+vidéo > 0 AND
+quad-core > 0 AND
+amovible > 0: 700 (57.0/2.0)
+
+vidéo > 0 AND
+cooler <= 0 AND
+n-300mbps <= 0 AND
+4ghz <= 0 AND
+h310express <= 0 AND
+5 <= 1 AND
+254mm <= 0 AND
+23kg <= 0 AND
+4go <= 0 AND
+multimédia <= 0 AND
+6xjack <= 0 AND
+serial <= 0: 1400 (142.0/1.0)
+
+i7 > 0 AND
+2xmini <= 0 AND
+3840x2160pixels <= 0 AND
+850w <= 0 AND
+bleu <= 0 AND
+rtx-2060 > 0 AND
+16go > 0: 1400 (10.0)
+
+turbo <= 0 AND
+i7 <= 0 AND
+1go <= 0 AND
+sata-6gbs <= 0: 0 (67.0)
+
+dual-core > 0 AND
+165mm <= 0 AND
+ddr3 <= 0 AND
+4go > 0: 0 (26.0)
+
+1to > 0: 0 (11.0/1.0)
+
+i7-8750h > 0 AND
+7200rpm <= 0: 1400 (9.0)
+
+11ghz > 0 AND
+argent <= 0: 0 (8.0)
+
+vega > 0 AND
+16kg <= 0 AND
+nvme <= 0: 0 (14.0/1.0)
+
+4threads > 0 AND
+10professionnel <= 0: 0 (8.0)
+
+i3 <= 0 AND
+ssd-1to <= 1 AND
+12go <= 0 AND
+z390express <= 0 AND
+usage <= 0 AND
+quad > 0 AND
+digital <= 0: 700 (10.0)
+
+i3 <= 0 AND
+ssd-1to <= 1 AND
+12go <= 0 AND
+c <= 1 AND
+interface > 0 AND
+1xusb-31 <= 0 AND
+397mm <= 0 AND
+micro <= 1 AND
+18kg <= 0 AND
+361mm <= 0 AND
+27kg <= 0 AND
+sdxc <= 0 AND
+6ax <= 0: 700 (114.0/2.0)
+
+630 <= 0 AND
+3840x2160pixels <= 0 AND
+rtx-2070 > 0: 1400 (6.0)
+
+630 <= 0 AND
+3840x2160pixels > 0: 1400 (6.0)
+
+630 <= 0 AND
+tdp-95w <= 0 AND
+bleu > 0: 1400 (5.0/1.0)
+
+630 <= 0 AND
+tdp-95w > 0: 1400 (5.0)
+
+630 > 0: 0 (5.0)
+
+34ghz <= 0 AND
+22mm > 0 AND
+2années <= 0: 1400 (4.0)
+
+34ghz <= 0 AND
+1go <= 0 AND
+19kg <= 0 AND
+40 <= 0 AND
+12go <= 0 AND
+ssd-1to <= 1 AND
+112mm <= 0 AND
+2133mhz <= 0 AND
+4xusb-30 <= 0 AND
+accessoires <= 0 AND
+27kg <= 0: 700 (58.0/1.0)
+
+gddr6 <= 0 AND
+133pouces <= 0 AND
+16go > 1 AND
+technologie > 0: 1400 (4.0)
+
+gddr6 <= 0 AND
+133pouces <= 0 AND
+ssd-240go <= 1 AND
+34ghz <= 0 AND
+ssd-512go > 1: 700 (10.0)
+
+gddr6 <= 0 AND
+133pouces <= 0 AND
+ssd-240go <= 1 AND
+19kg <= 0 AND
+16kg <= 0 AND
+21ghz <= 0 AND
+2mo <= 0 AND
+c > 0 AND
+crucial <= 0: 700 (16.0/1.0)
+
+type <= 6 AND
+18ghz <= 0 AND
+10professionnel <= 0: 0 (17.0/2.0)
+
+42ghz <= 0: 1400 (7.0)
+
+: 700 (3.0)
+
+Number of Rules  : 	25

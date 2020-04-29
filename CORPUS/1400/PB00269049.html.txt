@@ -1,0 +1,75 @@
+,0
+Désignation, LDLC Bellone XT59-I9-32-S40P
+Marque, LDLCLDLC
+Modèle, XT59-I9-32-S40P
+Système d'exploitation, Windows 10Professionnel 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Core i9
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i9-9900K (Octo-Core 3.6GHz / 5GHz Turbo - 16Threads - Cache 16Mo)
+Fréquence CPU, 3.6GHz
+Nombre de core, 8
+Taille de la mémoire, 32Go
+Nombre de barrettes, 2
+Nombre de slots mémoire disponibles, 2
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Taille de mémoire Max, 64Go
+Chipset graphique, NVIDIA GeForce RTX-2080
+Taille mémoire vidéo, 8Go
+Type mémoire vidéo, GDDR6
+Max-Q (Design GPU), Non
+Ecran tactile, Non
+Type d'écran, LED
+Taille de l'écran, 15.6pouces
+Résolution Max, 3840x2160pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Oui
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-4To
+Disque dur, SSD-4To
+Disque secondaire, Sans disque secondaire
+Type de Disque, SSD (Solid State Drive)
+Interface du disque dur, Serial ATA-6Gb/s (SATA Revision 3)
+Nombre de disques, 1
+Nombre de disques max, 4
+Emplacement mSATA/M.2, M.2 (disponible)
+Lecteur Optique, Aucun
+Lecteur de cartes," Multimedia Card,  RS MultiMedia Card,  mini SD,  SD (Secure Digital),  SDHC,  SDXC,  UHS-II"
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 5.0
+Technologie Intel vPro, Non
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Oui
+Clavier RGB, Oui
+Pavé numérique, Oui
+Lecteur biométrique, Oui
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xLine IN (Jack 3.5mm Femelle),  1xLine OUT (Jack 3.5mm Femelle),  1xMicro (Jack3.5mm Femelle),  1xS/PDIF (Jack 3.5mm),  1xRJ45Femelle,  1xUSB-2.0,  3xUSB-3.0,  1xUSB-3.1Type C,  2xMini DisplayPort,  1xThunderbolt 3,  1xHDMI Femelle"
+Couleur, Noir
+Profondeur, 262mm
+Largeur, 386mm
+Epaisseur, 38mm
+Poids, 3.4kg
+Gamme, LDLC Bellone
+Ultrabook, Non
+Hybride / Convertible, Non
+Nombre de cellules, 8
+Batterie amovible, Oui
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2ans constructeurGarantie limitée
+
+Les PC Portables de marque LDLC bénéficient d'une garantie commerciale de 2ans. Cette garantie ne s'applique pas aux batteries contenues dans ces équipements. Les batteries contenues dans les PC Portables LDLC bénéficient quant à elles d'une garantie commerciale de 6mois.
+Garantie légale, Voir les modalités

@@ -1,0 +1,45 @@
+,0
+Désignation, MSI Prestige P100 9SF-015FR
+Marque, MSIMSI
+Modèle, Prestige P100 9SF-015FR
+Système d'exploitation, Windows 10Professionnel 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i9-9900K (Octo-Core 3.6GHz / 5GHz Turbo - 16Threads - Cache 16Mo)
+Processeur, Intel Core i9
+Fréquence CPU, 3.6GHz
+Chipset, Intel Z390Express
+Taille de la mémoire, 64Go
+Type de mémoire, DDR4
+Capacité maximale de RAM par slot, 32Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-1To + HDD-2To
+Disque dur, SSD-1To
+Disque secondaire, HDD-2To
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA GeForce RTX-2080Ti
+Taille mémoire vidéo, 11Go
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, 1xRealtek RTL8111H
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil," Bluetooth 5.0,  Wi-Fi AC"
+Connecteurs panneau avant," 1xJack 3,5mm Femelle Stéréo,  1xMicro (Jack3.5mm Femelle),  1xUSB-2.0,  1xUSB-3.0,  1xUSB-3.0Type C"
+Connecteurs panneau arrière," 5xJack 3,5mm Femelle Stéréo,  1xAudio numérique S/PDIF Optique,  1xRJ45,  2xUSB-2.0,  2xUSB-3.0,  2xUSB-3.1,  3xDisplayPort Femelle,  1xHDMI-2.0Femelle"
+Clavier et souris fournis, Non
+Format de PC, Desktop
+Format du boitier, Mini Tour
+Largeur, 131.85mm
+Hauteur, 403.88mm
+Profondeur, 372.2mm
+Poids, 7.71kg
+Puissance, 650W
+Monté, Oui
+Usage, Professionnel
+Technologie Intel vPro, Non
+Garantie commerciale, 2ans constructeur
+Garantie légale, Voir les modalités

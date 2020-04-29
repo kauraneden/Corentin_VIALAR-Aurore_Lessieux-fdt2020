@@ -1,0 +1,40 @@
+,0
+Désignation, LDLC PC10Bazooka
+Marque, LDLCLDLC
+Modèle, PC10BAZOOKA
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i5-9400F (Hexa-Core 2.9GHz - Turbo 4.1GHz - Cache 9Mo - TDP-65W)
+Processeur, Intel Core i5
+Fréquence CPU, 2.9GHz
+Chipset, Intel B365Express
+Taille de la mémoire, 16Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-480Go
+Disque dur, SSD-480Go
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E-3.0 4x
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA GeForce RTX-2060
+Taille mémoire vidéo, 6Go
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, 1xIntel I219-V
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi N-300Mbps (IEEE-802.11n)
+Connecteurs panneau avant," Casque (Jack 3.5mm Femelle),  Micro (Jack3.5mm Femelle),  2xUSB-3.0"
+Connecteurs panneau arrière," 3xJack 3,5mm Femelle Stéréo,  2xMiniDin 6Femelle (PS/2),  1xRJ45Femelle,  2xUSB-2.0,  2xUSB-3.0,  1xUSB-3.0Type C,  DisplayPort Femelle,  HDMI Femelle"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Puissance, 500W
+Monté, Oui
+Technologie Intel vPro, Non
+Garantie légale, Voir les modalités

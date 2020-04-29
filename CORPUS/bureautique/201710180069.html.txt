@@ -1,0 +1,36 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Plateforme (Proc.), Intel Kaby Lake
+Type de processeur, Processeur Intel Core i7-7567U (Dual-Core 3.5GHz - Cache 4Mo - TDP-28W)
+Processeur, Intel Core i7
+Fréquence CPU, 3.5GHz
+Taille de la mémoire, 8Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 32Go
+Configuration disque(s), Intel Optane 32Go + HDD-2To
+Disque dur, eMMC-32Go
+Disque secondaire, HDD-2To
+Type de Disque Système, eMMC (Puce à mémoire Flash)
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, Intel Iris Plus Graphics 650
+VR Ready (réalité virtuelle), Non
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, Intégré
+Norme(s) réseau," 10/100/1000Mbps,  Wi-Fi AC"
+Norme(s) réseau sans-fil, Wi-Fi AC
+Connecteurs panneau avant," SD (Secure Digital),  1xMicro (Jack3.5mm Femelle),  1xCasque (Jack 3.5mm Femelle),  SDHC,  2xUSB-3.0"
+Connecteurs panneau arrière," 1xRJ45Femelle,  2xUSB-3.0,  1xThunderbolt/Mini-DisplayPort"
+Clavier et souris fournis, Non
+Format de PC, Mini PC
+Format du boitier, Mini PC
+Largeur, 115mm
+Hauteur, 51mm
+Profondeur, 111mm
+Puissance, 65W
+Monté, Oui
+Usage, Familial
+Technologie Intel vPro, Non
+Garanties légales, Voir les modalités

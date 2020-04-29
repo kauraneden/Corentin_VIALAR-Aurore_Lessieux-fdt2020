@@ -1,0 +1,44 @@
+,0
+Désignation, ASUS Vivo AiO V241FAK-WA056T
+Marque, ASUSASUS
+Modèle, 90PT0291-M02620
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Whiskey Lake
+Type de processeur, Intel Core i5-8265U (Quad-Core 1.6GHz / 3.9GHz Turbo - Cache 6Mo)
+Processeur, Intel Core i5
+Fréquence CPU, 1.6GHz
+Taille de la mémoire, 8Go
+Type de mémoire, DDR4
+Configuration disque(s), SSD-256Go + HDD-1To
+Disque dur, SSD-256Go
+Disque secondaire, HDD-1To
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - SATA-6Gb/s
+Vitesse de rotation, 5400RPM
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, Intel UHD Graphics 620
+Type de multi-GPU, Aucun
+Type d'écran, LED
+Taille de l'écran, 23.8pouces
+Résolution Max, 1920x1080pixels
+VR Ready (réalité virtuelle), Non
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, Intégré
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil," Bluetooth 5.0,  Wi-Fi AC"
+Connecteurs panneau avant," 1xUSB-2.0,  1xJack 3,5mm Femelle Stéréo"
+Connecteurs panneau arrière," 1xHDMI Femelle,  1xRJ45Femelle,  4xUSB-3.0"
+Clavier et souris fournis, Oui
+Format de PC, Tout en un
+Largeur, 540mm
+Hauteur, 409mm
+Profondeur, 165mm
+Poids, 5.1kg
+Puissance, 65W
+Monté, Oui
+Usage, Familial
+Technologie Intel vPro, Non
+Garantie commerciale, 2ans constructeur
+Garantie légale, Voir les modalités

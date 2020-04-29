@@ -1,0 +1,44 @@
+,0
+Système d'exploitation, Sans OS
+Système d'exploitation fourni, Non
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i7-9700 (8-Core 3.0GHz / 4.7GHz Turbo - Cache 12Mo - TDP-65W)
+Processeur, Intel Core i7
+Fréquence CPU, 3GHz
+Modèle refroidissement CPU, Be Quiet! Pure Rock
+Chipset, Intel Z390Express
+Modèle de la carte mère, MSI MPG Z390GAMING PLUS
+Taille de la mémoire, 16Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 3000MHz
+Marque de la RAM, G.Skill
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-500Go + HDD-2To
+Disque dur, SSD-500Go
+Disque secondaire, HDD-2To
+Modèle du SSD, Kingston A2000
+Modèle du disque dur, Seagate Barracuda
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E-2.0 4x
+Lecteur Optique, Graveur DVD
+Lecteur de disquettes, Non
+Chipset graphique, Intel HD Graphics 630
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Non
+Sans-fil, Non
+Norme(s) réseau, 10/100/1000Mbps
+Connecteurs panneau avant," 1xMicro (Jack3.5mm Femelle),  1xCasque (Jack 3.5mm Femelle)"
+Connecteurs panneau arrière," 6xJack 3,5mm Femelle Stéréo,  1xMiniDin 6Femelle (PS/2),  1xRJ45Femelle,  2xUSB-2.0,  2xUSB-3.0Type A Femelle,  1xUSB-3.1Type A Femelle,  1xDVI-D Dual Link Femelle (24+1)"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Modèle du boitier, Corsair Carbide 100R Silent
+Largeur, 200mm
+Hauteur, 430mm
+Profondeur, 471mm
+Puissance, 450W
+Modèle de l'alimentation, Corsair CX450
+Monté, Oui
+Usage, Familial
+Garanties légales, Voir les modalités

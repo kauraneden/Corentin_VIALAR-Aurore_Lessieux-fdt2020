@@ -1,0 +1,35 @@
+,0
+Système d'exploitation, Sans OS
+Système d'exploitation fourni, Non
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i5 9400F (6coeurs - 2.90Ghz - Turbo 4.10Ghz - Cache 9Mo - TDP-65W)
+Processeur, Intel Core i5
+Fréquence CPU, 2.9GHz
+Modèle refroidissement CPU, Be Quiet Pure Rock
+Chipset, Intel B360Express
+Taille de la mémoire, 16Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2666MHz
+Marque de la RAM, G.Skill
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-500Go
+Modèle du SSD, Kingston A2000NVMe
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E NVMe
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA GeForce RTX-2060SUPER
+Taille mémoire vidéo, 8Go
+Référence de la carte graphique, ZOTAC GeForce RTX-2060SUPER MINI
+Nombre de ports/Contrôleur Ethernet, 1xIntégré
+Connecteurs panneau avant," 2xJack 3,5mm Femelle Stéréo"
+Connecteurs panneau arrière," 1xHDMI Femelle,  2xUSB-2.0,  3xJack 3,5mm Femelle Stéréo,  3xDisplayPort,  2xUSB-3.1"
+Format de PC, Tour
+Format du boitier, Mini Tour
+Modèle du boitier, Cooler Master MasterboxQ300L
+Puissance, 600W
+Modèle de l'alimentation, Be Quiet System Power 9Bronze
+Monté, Oui
+Gamme, Performance
+Garanties légales, Voir les modalités

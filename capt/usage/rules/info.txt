@@ -1,0 +1,44 @@
+JRip : 4 règles
+PART : 5 règles
+
+temps : PART(0.26s) < JRip(0.56s)
+
+règles JRip :
+
+JRIP rules:
+===========
+
+(vidéo >= 1) and (2go <= 0) and (familial <= 0) and (gtx-1050 <= 0) => xClasse=gaming (265.0/1.0)
+(4xusb-30 >= 1) and (- >= 4) => xClasse=gaming (3.0/0.0)
+(gtx-1050 >= 1) and (10famille >= 1) => xClasse=gaming (3.0/0.0)
+ => xClasse=bureautique (307.0/1.0)
+
+Number of Rules : 4
+
+
+
+règles PART :
+
+PART decision list
+------------------
+
+vidéo <= 0 AND
+4xusb-30 <= 0: bureautique (259.0)
+
+2go <= 0 AND
+usage <= 0 AND
+10professionnel <= 0 AND
+rtl8111h <= 0 AND
+60hz <= 0: gaming (200.0)
+
+2go <= 0 AND
+i3 <= 0 AND
+usage <= 0 AND
+gtx-1050 <= 0 AND
+normes > 1: gaming (63.0)
+
+5 <= 1: bureautique (50.0/2.0)
+
+: gaming (6.0)
+
+Number of Rules  : 	5

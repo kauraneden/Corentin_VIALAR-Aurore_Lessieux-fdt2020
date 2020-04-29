@@ -1,0 +1,38 @@
+,0
+Désignation, LDLC PC Perfect
+Marque, LDLCLDLC
+Modèle, PC PERFECT COFFEE EDITION
+Système d'exploitation, Sans OS
+Système d'exploitation fourni, Non
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i5-9600K (6-Core - 3.7GHz / 4.6GHz Turbo - Cache 6Mo - DMI-8GT/s)
+Processeur, Intel Core i5
+Fréquence CPU, 3.7GHz
+Chipset, Intel Z390Express
+Taille de la mémoire, 16Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-120Go + HDD-2To
+Disque dur, SSD-120Go
+Disque secondaire, HDD-2To
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E-3.0 4x
+Lecteur Optique, Aucun
+Chipset graphique, NVIDIA GeForce RTX-2060
+Taille mémoire vidéo, 6Go
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, Realtek RTL8111H
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi N-300Mbps (IEEE-802.11n)
+Connecteurs panneau avant," Casque (Jack 3.5mm Femelle),  Micro (Jack3.5mm Femelle),  2xUSB-3.0"
+Connecteurs panneau arrière," 6xJack 3,5mm Mâle Stéréo,  1xMiniDin 6Femelle (PS/2),  1xRJ45Femelle,  2xUSB-2.0,  2xUSB-3.0,  1xUSB-3.1,  1xUSB-3.1Type C Femelle,  DisplayPort Femelle,  HDMI Femelle"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Puissance, 500W
+Monté, Non
+Technologie Intel vPro, Non
+Garantie légale, Voir les modalités

@@ -1,0 +1,36 @@
+,0
+Système d'exploitation, Sans OS
+Système d'exploitation fourni, Non
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i7 9700K (3.60GHz - Turbo 4.90Ghz - 8coeurs - 12Mo de cache - TDP-95W)
+Processeur, Intel Core i7
+Fréquence CPU, 3.6GHz
+Modèle refroidissement CPU, Corsair H115i Platinum
+Chipset, Intel Z390Express
+Taille de la mémoire, 16Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 3200MHz
+Marque de la RAM, GSkill
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-500Go + HDD-2To
+Disque dur, 500Go
+Modèle du SSD, Kingston A2000NVMe
+Modèle du disque dur, Seagate Barracuda
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E NVMe
+Lecteur Optique, Aucun
+Chipset graphique, NVIDIA GeForce RTX-2070SUPER
+Taille mémoire vidéo, 8Go
+Référence de la carte graphique, MSI GeForce RTX-2070SUPER Ventus OC
+Nombre de ports/Contrôleur Ethernet, 1xIntégré
+Connecteurs panneau avant," 1xUSB-2.0,  2xJack 3,5mm Femelle Stéréo"
+Connecteurs panneau arrière," 3xJack 3,5mm Femelle Stéréo,  3xUSB-3.0,  2xUSB-3.1,  3xDisplayPort Femelle"
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Modèle du boitier, Be Quiet Silent Base 601TG - black
+Puissance, 650W
+Modèle de l'alimentation, Seasonic CORE GM Gold
+Monté, Oui
+Gamme, Elite
+Garanties légales, Voir les modalités

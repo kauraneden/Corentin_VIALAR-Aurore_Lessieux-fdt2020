@@ -1,0 +1,72 @@
+,0
+Désignation, Lenovo IdeaPad 330-15IKB (81DC019DFR)
+Marque, LenovoLenovo
+Modèle, 81DC019DFR
+Système d'exploitation, Windows 10Famille 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Pentium
+Plateforme (Proc.), Intel Kaby Lake
+Type de processeur, Intel Pentium Gold 4415U (Dual-Core 2.3GHz - Cache 2Mo - TDP-15W)
+Fréquence CPU, 2.3GHz
+Nombre de core, 2
+Taille de la mémoire, 4Go
+Nombre de barrettes, 1
+Nombre de slots mémoire disponibles, 1
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2133MHz
+Taille de mémoire Max, 12Go
+Chipset graphique, Intel HD Graphics 610
+Max-Q (Design GPU), Non
+Ecran tactile, Non
+Type de Dalle, Dalle TN
+Type d'écran, LED
+Taille de l'écran, 15.6pouces
+Résolution Max, 1366x768pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-128Go + HDD-1To
+Disque dur, SSD-128Go
+Disque secondaire, HDD-1To
+Type de Disque," HDD (Hard Disk Drive),  SSD (Solid State Drive)"
+Vitesse de rotation, 5400RPM
+Interface du disque dur, Serial ATA-6Gb/s (SATA Revision 3)
+Nombre de disques, 2
+Nombre de disques max, 2
+Emplacement mSATA/M.2, M.2 (occupé)
+Lecteur Optique, Aucun
+Lecteur de cartes," SD (Secure Digital),  Multimedia Card,  SDHC,  SDXC"
+Norme(s) réseau sans-fil, Wi-Fi AC
+Technologie Bluetooth, Bluetooth 4.1
+Technologie Intel vPro, Non
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Non
+Clavier RGB, Non
+Pavé numérique, Oui
+Lecteur biométrique, Non
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xJack 3,5mm Femelle Stéréo,  1xRJ45Femelle,  2xUSB-3.0,  1xUSB-3.0Type C,  1xHDMI Femelle"
+Couleur, Gris foncé
+Profondeur, 260mm
+Largeur, 378mm
+Epaisseur, 22.9mm
+Poids, 2.2kg
+Gamme, Lenovo IdeaPad
+Ultrabook, Non
+Hybride / Convertible, Non
+Autonomie, 5.5Heure(s)
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2ans constructeur
+Garantie légale, Voir les modalités

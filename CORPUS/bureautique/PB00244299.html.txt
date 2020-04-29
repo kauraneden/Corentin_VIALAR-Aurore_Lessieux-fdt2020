@@ -1,0 +1,39 @@
+,0
+Désignation, LDLC PC10P In extensor-SSD
+Marque, LDLCLDLC
+Modèle, PC10P IN EXTENSOR-SSD KABY EDITION OA3
+Système d'exploitation, Windows 10Professionnel 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i3-9100F (Quad-Core 3.6GHz / 4.2GHz Turbo)
+Processeur, Intel Core i3
+Fréquence CPU, 3.6GHz
+Chipset, Intel H310Express
+Taille de la mémoire, 8Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 2400MHz
+Configuration disque(s), SSD-240Go
+Disque dur, SSD-240Go
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, Serial ATA-6Gb/s (SATA Revision 3)
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, GPU dédié
+Taille mémoire vidéo, 1024Mo
+Type de multi-GPU, Aucun
+VR Ready (réalité virtuelle), Non
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, Realtek RTL8111H
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Wi-Fi N-300Mbps (IEEE-802.11n)
+Connecteurs panneau avant," Casque (Jack 3.5mm Femelle),  Micro (Jack3.5mm Femelle),  2xUSB-2.0,  1xUSB-3.0"
+Connecteurs panneau arrière," 3xJack 3,5mm Femelle Stéréo,  1xMiniDin 6Femelle (PS/2),  1xRJ45Femelle,  2xUSB-2.0,  4xUSB-3.0,  1xDVI Femelle,  1xHDMI Femelle,  1xVGA (D-sub 15Femelle)"
+Clavier et souris fournis, Non
+Format de PC, Mini PC
+Format du boitier, Mini Tour
+Puissance, 350W
+Monté, Oui
+Gamme de PC LDLC, Publik
+Usage," Familial,  Professionnel"
+Garantie légale, Voir les modalités

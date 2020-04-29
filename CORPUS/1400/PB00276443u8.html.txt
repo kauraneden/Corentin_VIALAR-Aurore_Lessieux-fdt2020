@@ -1,0 +1,38 @@
+,0
+Désignation, PC10ZT Indépendant (pré-monté)
+Marque, LDLCLDLC
+Modèle, INDEPENDANT_W10-3-ZERATOR
+Système d'exploitation, Windows 10Famille 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake R
+Type de processeur, Intel Core i9-9900K (8-Core 3.6GHz / 5GHz Turbo - Cache 16Mo - TDP-95W)
+Processeur, Intel Core i9
+Fréquence CPU, 3.6GHz
+Chipset, Intel Z390Express
+Taille de la mémoire, 16Go
+Type de mémoire, DDR4
+Fréquence(s) Mémoire, DDR4 3000MHz
+Capacité maximale de RAM par slot, 16Go
+Capacité maximale de RAM, 64Go
+Configuration disque(s), SSD-480Go + HDD-4To
+Disque dur, SSD-480Go
+Disque secondaire, HDD-4To
+Type de Disque Système, SSD (Solid State Drive)
+Interface avec l'ordinateur disque dur système, M.2 - PCI-E NVMe
+Lecteur Optique, Aucun
+Lecteur de disquettes, Non
+Chipset graphique, NVIDIA GeForce RTX-2080Ti
+Taille mémoire vidéo, 11Go
+VR Ready (réalité virtuelle), Oui
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, Intel I219-V
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil," Bluetooth 5.0,  Wi-Fi AC"
+Connecteurs panneau avant," Casque (Jack 3.5mm Femelle),  Micro (Jack3.5mm Femelle),  2xUSB-3.0"
+Connecteurs panneau arrière," 2xSMA Femelle,  5xJack 3,5mm Femelle Stéréo,  1xAudio numérique S/PDIF Optique,  1xMiniDin 6Femelle (PS/2),  1xRJ45Femelle,  2xUSB-2.0,  2xUSB-3.0,  1xUSB-3.1,  1xUSB-3.1Type C Femelle,  3xDisplayPort Femelle,  1xDisplayPort USB Type C,  1xHDMI Femelle"
+Clavier et souris fournis, Non
+Format de PC, Tour
+Format du boitier, Moyen Tour
+Puissance, 850W
+Monté, Oui
+Garantie légale, Voir les modalités

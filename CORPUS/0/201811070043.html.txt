@@ -1,0 +1,43 @@
+,0
+Système d'exploitation, Windows 10Professionnel 64bits
+Système d'exploitation fourni, Oui
+Plateforme (Proc.), Intel Coffee Lake
+Type de processeur, Intel Core i3-8100 (Quad-Core 3.6GHz - Cache 6Mo)
+Processeur, Intel Core i3
+Fréquence CPU, 3.6GHz
+Chipset, Intel B360Express
+Taille de la mémoire, 4Go
+Type de mémoire, DDR4
+Capacité maximale de RAM par slot, 8Go
+Capacité maximale de RAM, 16Go
+Configuration disque(s), HDD-1To
+Disque dur, 1To
+Disque secondaire, Sans disque secondaire
+Type de Disque Système, HDD (Hard Disk Drive)
+Interface avec l'ordinateur disque dur système, Serial ATA-6Gb/s (SATA Revision 3)
+Vitesse de rotation, 7200RPM
+Lecteur Optique, Graveur DVD Super Multi
+Lecteur de disquettes, Non
+Chipset graphique, Intel UHD Graphics 630
+Type de multi-GPU, Aucun
+Type d'écran, LED
+Taille de l'écran, 19.5pouces
+Résolution Max, 1600x900pixels
+VR Ready (réalité virtuelle), Non
+Sans-fil, Oui
+Nombre de ports/Contrôleur Ethernet, 1xRealtek RTL8821CE
+Norme(s) réseau, 10/100/1000Mbps
+Norme(s) réseau sans-fil, Bluetooth 4.0
+Connecteurs panneau avant," 1xJack 3,5mm Femelle Stéréo,  1xUSB-3.0"
+Connecteurs panneau arrière," 1xRJ45Femelle,  3xUSB-3.0,  1xUSB-3.1,  1xHDMI Femelle,  Memory Stick,  Memory Stick PRO,  Multimedia Card,  SD (Secure Digital),  SDHC"
+Clavier et souris fournis, Oui
+Format de PC, Tout en un
+Largeur, 477mm
+Hauteur, 398mm
+Profondeur, 86.6mm
+Poids, 6.36kg
+Puissance, 120W
+Monté, Oui
+Usage, Professionnel
+Technologie Intel vPro, Non
+Garanties légales, Voir les modalités

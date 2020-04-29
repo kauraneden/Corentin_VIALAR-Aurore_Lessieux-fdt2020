@@ -1,0 +1,65 @@
+,0
+Système d'exploitation, Windows 10Famille 64bits
+Famille OS, Microsoft Windows 10
+Langue de l'OS, Français
+Système d'exploitation fourni, Oui
+Marque processeur, Intel
+Processeur, Intel Core i3
+Plateforme (Proc.), Intel Kaby Lake
+Type de processeur, Intel Core i3-7020U (Dual-Core 2.3GHz - Cache 3Mo)
+Fréquence CPU, 2.3GHz
+Nombre de core, 2
+Taille de la mémoire, 4Go
+Nombre de barrettes, 1
+Nombre de slots mémoire disponibles, 1
+Taille de mémoire Max, 12Go
+Chipset graphique, Intel HD Graphics 620
+Ecran tactile, Non
+Type de Dalle, Dalle TN
+Type d'écran, LED
+Taille de l'écran, 15.6pouces
+Résolution Max, 1920x1080pixels
+Format de l'écran, 16/9
+Ecran large, Oui
+Dalle mate/antireflets, Oui
+Dalle brillante, Non
+NVIDIA G-SYNC, Non
+VR Ready (réalité virtuelle), Non
+Taux de rafraîchissement, 60Hz
+Configuration disque(s), SSD-128Go + HDD-1To
+Disque dur, SSD-128Go
+Disque secondaire, HDD-1To
+Type de Disque, HDD (Hard Disk Drive)
+Vitesse de rotation, 5400RPM
+Interface du disque dur, Serial ATA
+Nombre de disques, 2
+Nombre de disques max, 2
+Emplacement mSATA/M.2, Aucun
+Lecteur Optique, Aucun
+Lecteur de cartes, micro SD
+Norme(s) réseau sans-fil," Wi-Fi B (IEEE-802.11b),  Wi-Fi G (IEEE-802.11g)"
+Technologie Bluetooth, Bluetooth 4.0
+Sans-fil, Oui
+Webcam, Oui
+Type de H.P, Intégrés
+Norme du clavier, AZERTY
+Localisation, Français
+Clavier rétroéclairé, Non
+Clavier RGB, Non
+Pavé numérique, Oui
+Lecteur biométrique, Non
+Accessoires Supplémentaires, Sacoche de transport
+Office fourni, Non
+Connecteur(s) disponible(s)," 1xJack 3,5mm Femelle Stéréo,  2xUSB-2.0,  1xUSB-3.0"
+Couleur, Argent
+Profondeur, 251mm
+Largeur, 381mm
+Epaisseur, 27.2mm
+Poids, 1.9kg
+Ultrabook, Non
+Hybride / Convertible, Non
+Nombre de cellules, 3
+Batterie amovible, Non
+Chargeur secteur USB-C, Non
+Garantie commerciale, 2années constructeur
+Garanties légales, Voir les modalités
